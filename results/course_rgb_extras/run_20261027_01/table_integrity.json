@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "tasks": 300,
+  "rows": 1600,
+  "ablationRows": 1000,
+  "noiseRows": 600,
+  "noiseImages": 10,
+  "noiseNonzeroRealizations": 90,
+  "missingTasks": 0,
+  "duplicateRows": 0,
+  "pythonMatlabAggregateMaxError": 7.771561172376096e-16,
+  "cleanSixMethodMaskRegressions": 60,
+  "mainGrayAblationMaskRegressions": 400,
+  "noiseBootstrapUnit": "image block with all3 seeds",
+  "ablationPrimaryContrasts": 10,
+  "noisePrimaryContrasts": 6,
+  "originalSourcesUnchanged": true
+}

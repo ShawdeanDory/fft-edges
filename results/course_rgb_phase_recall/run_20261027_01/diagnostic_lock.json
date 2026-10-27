@@ -1,0 +1,83 @@
+{
+  "lockedAt": "2026-10-27T19:23:05.514007+08:00",
+  "numericalSources": [
+    {
+      "source": "matlab/course_rgb_phase_features.m",
+      "sha256": "6a6f457e54cd57c5ca2826972316aa0b133eca3efb4c17eaa5be2d50c6d633e5"
+    },
+    {
+      "source": "matlab/course_rgb_phase_map.m",
+      "sha256": "f2505ce7cf9e046acc7ad441b7c8bd183fa4c0840b69c618d84a2cc66bc64249"
+    },
+    {
+      "source": "matlab/course_fourier_scale_bank.m",
+      "sha256": "bed09eed5dda7f56c8e1155bb412afdd79f107fdbe0a4475be509c47b46bd684"
+    },
+    {
+      "source": "matlab/course_phase_features.m",
+      "sha256": "2fd52340df1ad3cd2bceb23b85d13f244e76e40a6fac9a8da2e0c205dabca461"
+    },
+    {
+      "source": "matlab/course_phase_edges.m",
+      "sha256": "eb3ae03d4e98c970d4366cf3a9c8412258b91871ec13bbd4847932a49b089b9c"
+    },
+    {
+      "source": "matlab/course_directional_hysteresis.m",
+      "sha256": "1cf4b9af1e6ac1b650cba45767b3f4baefc17e82a7eaedd8b9b9637935629e16"
+    },
+    {
+      "source": "matlab/gradient_nonmax_suppression.m",
+      "sha256": "c3448d22b213a24e0a1adc3ab3f54253bf5f1c4ccaf42211b1464d69663ce3a9"
+    },
+    {
+      "source": "external/kovesi/phasecong3.m",
+      "sha256": "1c7a7f9c6f814ca41db790e6c6cfb350d41985997e07301f33538b303cd40fdd"
+    },
+    {
+      "source": "external/kovesi/lowpassfilter.m",
+      "sha256": "f5c8b689d54741355948af35626f3355b4d413c833d84db3fa82c63e5499c3de"
+    },
+    {
+      "source": "external/kovesi/filtergrid.m",
+      "sha256": "082db2c5ea12ae064eb97b7123522ca0f25107be604a43bf9ee6c310375636a7"
+    },
+    {
+      "source": "external/kovesi/rayleighmode.m",
+      "sha256": "80a265bed528211aa708dcd58f7a95db36eeb7f873c6fe4ddab0b3a1dc0973a4"
+    },
+    {
+      "source": "external/structured_edges/course_match_boundaries.m",
+      "sha256": "4c68413f4dd46bdfa2941ed3042243d504bb3eefcc71b0355abe4b2e2d1bec3b"
+    },
+    {
+      "source": "matlab/course_rgb_phase_gate_features.m",
+      "sha256": "f7b1f92e5546feb7030c433f31262eca281a2efabbd7265ea0c36157fe98285e"
+    },
+    {
+      "source": "matlab/course_rgb_phase_gate_hysteresis.m",
+      "sha256": "c3d3f5c201325f26750f02a2ce6c89ecdd121ee6971ec836a7af719c9037a38e"
+    },
+    {
+      "source": "matlab/run_course_rgb_phase_recall_diagnosis.m",
+      "sha256": "5411f99d43e7545aed90a7ccad66afc22defca8d503147d938e2883f2255f6b9"
+    }
+  ],
+  "originalRGBLockSHA256": "2242e53e19eada0ac3362bab34e9ba6fafaaa772e5448eb6ac0db84df1f017c1",
+  "stage": "diagnostic_old12",
+  "high": 0.32,
+  "ratio": 0.3,
+  "maxDist": 0.0075,
+  "thin": 1,
+  "anisotropicSupport": false,
+  "oldGate": {
+    "seedEta": 0.125,
+    "linkEta": 0.125,
+    "seedSupport": "Q",
+    "linkSupport": "Q"
+  },
+  "candidateSelectionRecallLossTarget": 0.01,
+  "grayMainChanged": false,
+  "test200Used": false,
+  "training": false,
+  "history": "All val100 previously observed. New selection on old12; freeze one candidate before remaining88."
+}

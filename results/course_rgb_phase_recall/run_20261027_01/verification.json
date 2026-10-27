@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "images": 88,
+  "rows": 352,
+  "grayMaskRegression": 88,
+  "originalRGBMaskRegression": 88,
+  "oldPurePhaseMaskRegression": 88,
+  "selectedEntryAgreement": true,
+  "currentWrapperPhaseOnly": true,
+  "constantImageNoEdges": true
+}

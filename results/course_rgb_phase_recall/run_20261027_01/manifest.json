@@ -1,0 +1,706 @@
+{
+  "count": 100,
+  "split": "official validation",
+  "records": [
+    {
+      "id": "bsds_3096",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_3096.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_3096.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_3096.mat"
+    },
+    {
+      "id": "bsds_8023",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_8023.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_8023.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_8023.mat"
+    },
+    {
+      "id": "bsds_12084",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_12084.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_12084.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_12084.mat"
+    },
+    {
+      "id": "bsds_14037",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_14037.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_14037.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_14037.mat"
+    },
+    {
+      "id": "bsds_16077",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_16077.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_16077.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_16077.mat"
+    },
+    {
+      "id": "bsds_19021",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_19021.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_19021.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_19021.mat"
+    },
+    {
+      "id": "bsds_21077",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_21077.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_21077.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_21077.mat"
+    },
+    {
+      "id": "bsds_24077",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_24077.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_24077.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_24077.mat"
+    },
+    {
+      "id": "bsds_33039",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_33039.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_33039.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_33039.mat"
+    },
+    {
+      "id": "bsds_37073",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_37073.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_37073.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_37073.mat"
+    },
+    {
+      "id": "bsds_38082",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_38082.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_38082.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_38082.mat"
+    },
+    {
+      "id": "bsds_38092",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\images\\val\\bsds_38092.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_natural\\references\\val\\bsds_38092.mat",
+      "subset": "old12",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb\\run_20261027_rgb01\\validation\\bsds_38092.mat"
+    },
+    {
+      "id": "bsds_41033",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_41033.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_41033.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_41033.mat"
+    },
+    {
+      "id": "bsds_41069",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_41069.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_41069.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_41069.mat"
+    },
+    {
+      "id": "bsds_42012",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_42012.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_42012.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_42012.mat"
+    },
+    {
+      "id": "bsds_42049",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_42049.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_42049.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_42049.mat"
+    },
+    {
+      "id": "bsds_43074",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_43074.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_43074.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_43074.mat"
+    },
+    {
+      "id": "bsds_45096",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_45096.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_45096.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_45096.mat"
+    },
+    {
+      "id": "bsds_54082",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_54082.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_54082.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_54082.mat"
+    },
+    {
+      "id": "bsds_55073",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_55073.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_55073.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_55073.mat"
+    },
+    {
+      "id": "bsds_58060",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_58060.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_58060.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_58060.mat"
+    },
+    {
+      "id": "bsds_62096",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_62096.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_62096.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_62096.mat"
+    },
+    {
+      "id": "bsds_65033",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_65033.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_65033.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_65033.mat"
+    },
+    {
+      "id": "bsds_66053",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_66053.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_66053.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_66053.mat"
+    },
+    {
+      "id": "bsds_69015",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_69015.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_69015.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_69015.mat"
+    },
+    {
+      "id": "bsds_69020",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_69020.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_69020.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_69020.mat"
+    },
+    {
+      "id": "bsds_69040",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_69040.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_69040.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_69040.mat"
+    },
+    {
+      "id": "bsds_76053",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_76053.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_76053.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_76053.mat"
+    },
+    {
+      "id": "bsds_78004",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_78004.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_78004.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_78004.mat"
+    },
+    {
+      "id": "bsds_85048",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_85048.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_85048.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_85048.mat"
+    },
+    {
+      "id": "bsds_86000",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_86000.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_86000.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_86000.mat"
+    },
+    {
+      "id": "bsds_86016",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_86016.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_86016.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_86016.mat"
+    },
+    {
+      "id": "bsds_86068",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_86068.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_86068.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_86068.mat"
+    },
+    {
+      "id": "bsds_87046",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_87046.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_87046.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_87046.mat"
+    },
+    {
+      "id": "bsds_89072",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_89072.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_89072.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_89072.mat"
+    },
+    {
+      "id": "bsds_97033",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_97033.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_97033.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_97033.mat"
+    },
+    {
+      "id": "bsds_101085",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_101085.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_101085.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_101085.mat"
+    },
+    {
+      "id": "bsds_101087",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_101087.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_101087.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_101087.mat"
+    },
+    {
+      "id": "bsds_102061",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_102061.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_102061.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_102061.mat"
+    },
+    {
+      "id": "bsds_103070",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_103070.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_103070.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_103070.mat"
+    },
+    {
+      "id": "bsds_105025",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_105025.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_105025.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_105025.mat"
+    },
+    {
+      "id": "bsds_106024",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_106024.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_106024.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_106024.mat"
+    },
+    {
+      "id": "bsds_108005",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_108005.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_108005.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_108005.mat"
+    },
+    {
+      "id": "bsds_108070",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_108070.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_108070.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_108070.mat"
+    },
+    {
+      "id": "bsds_108082",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_108082.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_108082.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_108082.mat"
+    },
+    {
+      "id": "bsds_109053",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_109053.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_109053.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_109053.mat"
+    },
+    {
+      "id": "bsds_119082",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_119082.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_119082.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_119082.mat"
+    },
+    {
+      "id": "bsds_123074",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_123074.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_123074.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_123074.mat"
+    },
+    {
+      "id": "bsds_126007",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_126007.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_126007.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_126007.mat"
+    },
+    {
+      "id": "bsds_130026",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_130026.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_130026.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_130026.mat"
+    },
+    {
+      "id": "bsds_134035",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_134035.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_134035.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_134035.mat"
+    },
+    {
+      "id": "bsds_143090",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_143090.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_143090.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_143090.mat"
+    },
+    {
+      "id": "bsds_145086",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_145086.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_145086.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_145086.mat"
+    },
+    {
+      "id": "bsds_147091",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_147091.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_147091.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_147091.mat"
+    },
+    {
+      "id": "bsds_148026",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_148026.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_148026.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_148026.mat"
+    },
+    {
+      "id": "bsds_148089",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_148089.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_148089.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_148089.mat"
+    },
+    {
+      "id": "bsds_156065",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_156065.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_156065.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_156065.mat"
+    },
+    {
+      "id": "bsds_157055",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_157055.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_157055.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_157055.mat"
+    },
+    {
+      "id": "bsds_159008",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_159008.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_159008.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_159008.mat"
+    },
+    {
+      "id": "bsds_160068",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_160068.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_160068.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_160068.mat"
+    },
+    {
+      "id": "bsds_163085",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_163085.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_163085.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_163085.mat"
+    },
+    {
+      "id": "bsds_167062",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_167062.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_167062.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_167062.mat"
+    },
+    {
+      "id": "bsds_167083",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_167083.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_167083.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_167083.mat"
+    },
+    {
+      "id": "bsds_170057",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_170057.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_170057.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_170057.mat"
+    },
+    {
+      "id": "bsds_175032",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_175032.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_175032.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_175032.mat"
+    },
+    {
+      "id": "bsds_175043",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_175043.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_175043.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_175043.mat"
+    },
+    {
+      "id": "bsds_182053",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_182053.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_182053.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_182053.mat"
+    },
+    {
+      "id": "bsds_189080",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_189080.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_189080.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_189080.mat"
+    },
+    {
+      "id": "bsds_196073",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_196073.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_196073.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_196073.mat"
+    },
+    {
+      "id": "bsds_197017",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_197017.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_197017.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_197017.mat"
+    },
+    {
+      "id": "bsds_208001",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_208001.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_208001.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_208001.mat"
+    },
+    {
+      "id": "bsds_210088",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_210088.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_210088.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_210088.mat"
+    },
+    {
+      "id": "bsds_216081",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_216081.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_216081.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_216081.mat"
+    },
+    {
+      "id": "bsds_219090",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_219090.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_219090.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_219090.mat"
+    },
+    {
+      "id": "bsds_220075",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_220075.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_220075.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_220075.mat"
+    },
+    {
+      "id": "bsds_223061",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_223061.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_223061.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_223061.mat"
+    },
+    {
+      "id": "bsds_227092",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_227092.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_227092.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_227092.mat"
+    },
+    {
+      "id": "bsds_229036",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_229036.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_229036.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_229036.mat"
+    },
+    {
+      "id": "bsds_236037",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_236037.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_236037.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_236037.mat"
+    },
+    {
+      "id": "bsds_241004",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_241004.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_241004.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_241004.mat"
+    },
+    {
+      "id": "bsds_241048",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_241048.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_241048.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_241048.mat"
+    },
+    {
+      "id": "bsds_253027",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_253027.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_253027.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_253027.mat"
+    },
+    {
+      "id": "bsds_253055",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_253055.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_253055.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_253055.mat"
+    },
+    {
+      "id": "bsds_260058",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_260058.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_260058.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_260058.mat"
+    },
+    {
+      "id": "bsds_271035",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_271035.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_271035.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_271035.mat"
+    },
+    {
+      "id": "bsds_285079",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_285079.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_285079.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_285079.mat"
+    },
+    {
+      "id": "bsds_291000",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_291000.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_291000.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_291000.mat"
+    },
+    {
+      "id": "bsds_295087",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_295087.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_295087.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_295087.mat"
+    },
+    {
+      "id": "bsds_296007",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_296007.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_296007.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_296007.mat"
+    },
+    {
+      "id": "bsds_296059",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_296059.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_296059.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_296059.mat"
+    },
+    {
+      "id": "bsds_299086",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_299086.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_299086.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_299086.mat"
+    },
+    {
+      "id": "bsds_300091",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_300091.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_300091.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_300091.mat"
+    },
+    {
+      "id": "bsds_302008",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_302008.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_302008.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_302008.mat"
+    },
+    {
+      "id": "bsds_304034",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_304034.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_304034.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_304034.mat"
+    },
+    {
+      "id": "bsds_304074",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_304074.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_304074.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_304074.mat"
+    },
+    {
+      "id": "bsds_306005",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_306005.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_306005.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_306005.mat"
+    },
+    {
+      "id": "bsds_351093",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_351093.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_351093.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_351093.mat"
+    },
+    {
+      "id": "bsds_361010",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_361010.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_361010.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_361010.mat"
+    },
+    {
+      "id": "bsds_376043",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_376043.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_376043.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_376043.mat"
+    },
+    {
+      "id": "bsds_385039",
+      "image": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\images\\bsds_385039.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_rgb_confirmation\\references\\bsds_385039.mat",
+      "subset": "remaining88",
+      "originalSample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_confirmation\\run_20261027_01\\samples\\bsds_385039.mat"
+    }
+  ]
+}

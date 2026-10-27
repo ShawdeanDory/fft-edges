@@ -1,0 +1,15 @@
+{
+  "matlabVersion": "26.2.0.3386108 (R2026b)",
+  "matlabRelease": "2026b",
+  "platform": "PCWIN64",
+  "imageProcessingToolbox": {
+    "Name": "Image Processing Toolbox",
+    "Version": "26.2",
+    "Release": "(R2026b)",
+    "Date": "22-May-2026"
+  },
+  "evaluatedMethods": 6,
+  "images": 200,
+  "training": false,
+  "gpuRequired": false
+}

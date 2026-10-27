@@ -1,0 +1,10 @@
+# Preserve the bytes used by the frozen source and parameter checksums.
+* -text
+*.docx binary
+*.png binary
+*.jpg binary
+*.mat binary
+*.pdf binary
+*.mexw64 binary
+*.mexa64 binary
+*.mexmaci64 binary

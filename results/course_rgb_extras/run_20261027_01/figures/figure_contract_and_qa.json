@@ -1,0 +1,91 @@
+{
+  "status": "PASS",
+  "backend": "python",
+  "conclusion": "Separate fixed-working-point color/phase/gate contributions and limited10-image Gaussian-noise robustness.",
+  "archetypes": [
+    "quantitative grid",
+    "image plate + quant"
+  ],
+  "ablationImages": 200,
+  "noiseImages": 10,
+  "noiseSeeds": 3,
+  "excludedImages": 0,
+  "expectedFigures": 7,
+  "examples": [
+    {
+      "imageId": "bsds_2018",
+      "stage": "ablation",
+      "crop": false,
+      "photometricChanges": false
+    },
+    {
+      "imageId": "bsds_3063",
+      "stage": "ablation",
+      "crop": false,
+      "photometricChanges": false
+    },
+    {
+      "imageId": "bsds_5096",
+      "stage": "ablation",
+      "crop": false,
+      "photometricChanges": false
+    }
+  ],
+  "noiseExample": {
+    "imageId": "bsds_2018",
+    "seed": 42,
+    "crop": false,
+    "contrastChange": false
+  },
+  "sourceData": [
+    "ablation_summary.csv",
+    "ablation_paired_intervals.csv",
+    "noise_summary.csv",
+    "noise_paired_intervals.csv"
+  ],
+  "statistics": "Ablation image bootstrap200; noise bootstrap10 image blocks with3 seeds. Separate corrected families10 and6.",
+  "exports": [
+    "PNG300dpi",
+    "PDF editable text",
+    "SVG editable text"
+  ],
+  "imageIntegrity": "Native photo/mask arrays; binary edges black-on-white for display only.",
+  "visualInspection": "All seven PNGs reviewed: complete native photos/masks, no clipped/overlapping labels, noise subgroup and confidence definitions explicit, positive and unfavorable module examples retained.",
+  "editableTextChecks": [
+    {
+      "figure": "ablation200_module_changes",
+      "pdfTextCharacters": 432,
+      "svgTextElements": 30
+    },
+    {
+      "figure": "ablation200_scores",
+      "pdfTextCharacters": 408,
+      "svgTextElements": 30
+    },
+    {
+      "figure": "bsds_2018_ablation",
+      "pdfTextCharacters": 394,
+      "svgTextElements": 14
+    },
+    {
+      "figure": "bsds_3063_ablation",
+      "pdfTextCharacters": 394,
+      "svgTextElements": 14
+    },
+    {
+      "figure": "bsds_5096_ablation",
+      "pdfTextCharacters": 394,
+      "svgTextElements": 14
+    },
+    {
+      "figure": "noise10_f1_and_paired_changes",
+      "pdfTextCharacters": 455,
+      "svgTextElements": 35
+    },
+    {
+      "figure": "noise_first_image_seed42",
+      "pdfTextCharacters": 605,
+      "svgTextElements": 22
+    }
+  ]
+}

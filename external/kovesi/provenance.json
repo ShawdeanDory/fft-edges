@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://codeberg.org/peterkovesi/matlabfns/raw/branch/main/PhaseCongruency/phasecong3.m",
+    "file": "phasecong3.m"
+  },
+  {
+    "url": "https://codeberg.org/peterkovesi/matlabfns/raw/branch/main/FrequencyFilt/lowpassfilter.m",
+    "file": "lowpassfilter.m"
+  },
+  {
+    "url": "https://codeberg.org/peterkovesi/matlabfns/raw/branch/main/FrequencyFilt/filtergrid.m",
+    "file": "filtergrid.m"
+  }
+]

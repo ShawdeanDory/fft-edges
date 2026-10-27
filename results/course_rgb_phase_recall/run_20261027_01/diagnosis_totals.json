@@ -1,0 +1,10 @@
+{
+  "lostMatched": 1763,
+  "lostUnmatched": 3686,
+  "seedFailureMatched": 1078,
+  "seedFailureUnmatched": 2280,
+  "weakBreakMatched": 685,
+  "weakBreakUnmatched": 1406,
+  "strongSeedsRemoved": 4566,
+  "weakPixelsRemoved": 12606
+}

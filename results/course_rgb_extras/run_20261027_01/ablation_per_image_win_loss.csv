@@ -1,0 +1,6 @@
+method,comparator,improvedF1Images,worseF1Images,equalF1Images
+rgb_fft,gray_fft,122,78,0
+rgb_phase,gray_phase,132,68,0
+gray_phase,gray_fft,106,94,0
+rgb_phase,rgb_fft,107,93,0
+rgb_main,rgb_phase,101,99,0

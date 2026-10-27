@@ -1,0 +1,12 @@
+{
+  "status": "selected_frozen",
+  "selected": {
+    "candidateId": "phase_recall_01",
+    "family": "link_only",
+    "seedEta": 0,
+    "linkEta": 0.125,
+    "seedSupport": "Q",
+    "linkSupport": "Q"
+  },
+  "candidates": 6
+}

@@ -1,0 +1,2705 @@
+{
+  "count": 300,
+  "tasks": [
+    {
+      "taskId": "ablation_bsds_2018",
+      "stage": "ablation",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_3063",
+      "stage": "ablation",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_5096",
+      "stage": "ablation",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_6046",
+      "stage": "ablation",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_8068",
+      "stage": "ablation",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_10081",
+      "stage": "ablation",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_14085",
+      "stage": "ablation",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_14092",
+      "stage": "ablation",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_15011",
+      "stage": "ablation",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_15062",
+      "stage": "ablation",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_16004",
+      "stage": "ablation",
+      "imageIndex": 11,
+      "imageId": "bsds_16004",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_16068",
+      "stage": "ablation",
+      "imageIndex": 12,
+      "imageId": "bsds_16068",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_17067",
+      "stage": "ablation",
+      "imageIndex": 13,
+      "imageId": "bsds_17067",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_20069",
+      "stage": "ablation",
+      "imageIndex": 14,
+      "imageId": "bsds_20069",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_23050",
+      "stage": "ablation",
+      "imageIndex": 15,
+      "imageId": "bsds_23050",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_28083",
+      "stage": "ablation",
+      "imageIndex": 16,
+      "imageId": "bsds_28083",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_29030",
+      "stage": "ablation",
+      "imageIndex": 17,
+      "imageId": "bsds_29030",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_33044",
+      "stage": "ablation",
+      "imageIndex": 18,
+      "imageId": "bsds_33044",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_35028",
+      "stage": "ablation",
+      "imageIndex": 19,
+      "imageId": "bsds_35028",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_35049",
+      "stage": "ablation",
+      "imageIndex": 20,
+      "imageId": "bsds_35049",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_36046",
+      "stage": "ablation",
+      "imageIndex": 21,
+      "imageId": "bsds_36046",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_41006",
+      "stage": "ablation",
+      "imageIndex": 22,
+      "imageId": "bsds_41006",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_41029",
+      "stage": "ablation",
+      "imageIndex": 23,
+      "imageId": "bsds_41029",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_41085",
+      "stage": "ablation",
+      "imageIndex": 24,
+      "imageId": "bsds_41085",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_41096",
+      "stage": "ablation",
+      "imageIndex": 25,
+      "imageId": "bsds_41096",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_43033",
+      "stage": "ablation",
+      "imageIndex": 26,
+      "imageId": "bsds_43033",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_43051",
+      "stage": "ablation",
+      "imageIndex": 27,
+      "imageId": "bsds_43051",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_45000",
+      "stage": "ablation",
+      "imageIndex": 28,
+      "imageId": "bsds_45000",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_48017",
+      "stage": "ablation",
+      "imageIndex": 29,
+      "imageId": "bsds_48017",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_48025",
+      "stage": "ablation",
+      "imageIndex": 30,
+      "imageId": "bsds_48025",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_49024",
+      "stage": "ablation",
+      "imageIndex": 31,
+      "imageId": "bsds_49024",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_51084",
+      "stage": "ablation",
+      "imageIndex": 32,
+      "imageId": "bsds_51084",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_61034",
+      "stage": "ablation",
+      "imageIndex": 33,
+      "imageId": "bsds_61034",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_64061",
+      "stage": "ablation",
+      "imageIndex": 34,
+      "imageId": "bsds_64061",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_65084",
+      "stage": "ablation",
+      "imageIndex": 35,
+      "imageId": "bsds_65084",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_69000",
+      "stage": "ablation",
+      "imageIndex": 36,
+      "imageId": "bsds_69000",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_69007",
+      "stage": "ablation",
+      "imageIndex": 37,
+      "imageId": "bsds_69007",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_69022",
+      "stage": "ablation",
+      "imageIndex": 38,
+      "imageId": "bsds_69022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_70011",
+      "stage": "ablation",
+      "imageIndex": 39,
+      "imageId": "bsds_70011",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_70090",
+      "stage": "ablation",
+      "imageIndex": 40,
+      "imageId": "bsds_70090",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_71076",
+      "stage": "ablation",
+      "imageIndex": 41,
+      "imageId": "bsds_71076",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_71099",
+      "stage": "ablation",
+      "imageIndex": 42,
+      "imageId": "bsds_71099",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_77062",
+      "stage": "ablation",
+      "imageIndex": 43,
+      "imageId": "bsds_77062",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_78098",
+      "stage": "ablation",
+      "imageIndex": 44,
+      "imageId": "bsds_78098",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_79073",
+      "stage": "ablation",
+      "imageIndex": 45,
+      "imageId": "bsds_79073",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_80085",
+      "stage": "ablation",
+      "imageIndex": 46,
+      "imageId": "bsds_80085",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_80090",
+      "stage": "ablation",
+      "imageIndex": 47,
+      "imageId": "bsds_80090",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_81066",
+      "stage": "ablation",
+      "imageIndex": 48,
+      "imageId": "bsds_81066",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_81090",
+      "stage": "ablation",
+      "imageIndex": 49,
+      "imageId": "bsds_81090",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_81095",
+      "stage": "ablation",
+      "imageIndex": 50,
+      "imageId": "bsds_81095",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_87015",
+      "stage": "ablation",
+      "imageIndex": 51,
+      "imageId": "bsds_87015",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_92014",
+      "stage": "ablation",
+      "imageIndex": 52,
+      "imageId": "bsds_92014",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_94095",
+      "stage": "ablation",
+      "imageIndex": 53,
+      "imageId": "bsds_94095",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_97010",
+      "stage": "ablation",
+      "imageIndex": 54,
+      "imageId": "bsds_97010",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_100007",
+      "stage": "ablation",
+      "imageIndex": 55,
+      "imageId": "bsds_100007",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_100039",
+      "stage": "ablation",
+      "imageIndex": 56,
+      "imageId": "bsds_100039",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_100099",
+      "stage": "ablation",
+      "imageIndex": 57,
+      "imageId": "bsds_100099",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_101027",
+      "stage": "ablation",
+      "imageIndex": 58,
+      "imageId": "bsds_101027",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_101084",
+      "stage": "ablation",
+      "imageIndex": 59,
+      "imageId": "bsds_101084",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_102062",
+      "stage": "ablation",
+      "imageIndex": 60,
+      "imageId": "bsds_102062",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_103006",
+      "stage": "ablation",
+      "imageIndex": 61,
+      "imageId": "bsds_103006",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_103029",
+      "stage": "ablation",
+      "imageIndex": 62,
+      "imageId": "bsds_103029",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_103078",
+      "stage": "ablation",
+      "imageIndex": 63,
+      "imageId": "bsds_103078",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_104010",
+      "stage": "ablation",
+      "imageIndex": 64,
+      "imageId": "bsds_104010",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_104055",
+      "stage": "ablation",
+      "imageIndex": 65,
+      "imageId": "bsds_104055",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_105027",
+      "stage": "ablation",
+      "imageIndex": 66,
+      "imageId": "bsds_105027",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_106005",
+      "stage": "ablation",
+      "imageIndex": 67,
+      "imageId": "bsds_106005",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_106047",
+      "stage": "ablation",
+      "imageIndex": 68,
+      "imageId": "bsds_106047",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_107014",
+      "stage": "ablation",
+      "imageIndex": 69,
+      "imageId": "bsds_107014",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_107045",
+      "stage": "ablation",
+      "imageIndex": 70,
+      "imageId": "bsds_107045",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_107072",
+      "stage": "ablation",
+      "imageIndex": 71,
+      "imageId": "bsds_107072",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_108004",
+      "stage": "ablation",
+      "imageIndex": 72,
+      "imageId": "bsds_108004",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_108036",
+      "stage": "ablation",
+      "imageIndex": 73,
+      "imageId": "bsds_108036",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_108069",
+      "stage": "ablation",
+      "imageIndex": 74,
+      "imageId": "bsds_108069",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_109055",
+      "stage": "ablation",
+      "imageIndex": 75,
+      "imageId": "bsds_109055",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_112056",
+      "stage": "ablation",
+      "imageIndex": 76,
+      "imageId": "bsds_112056",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_112090",
+      "stage": "ablation",
+      "imageIndex": 77,
+      "imageId": "bsds_112090",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_117025",
+      "stage": "ablation",
+      "imageIndex": 78,
+      "imageId": "bsds_117025",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_118015",
+      "stage": "ablation",
+      "imageIndex": 79,
+      "imageId": "bsds_118015",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_118031",
+      "stage": "ablation",
+      "imageIndex": 80,
+      "imageId": "bsds_118031",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_118072",
+      "stage": "ablation",
+      "imageIndex": 81,
+      "imageId": "bsds_118072",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_120003",
+      "stage": "ablation",
+      "imageIndex": 82,
+      "imageId": "bsds_120003",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_120093",
+      "stage": "ablation",
+      "imageIndex": 83,
+      "imageId": "bsds_120093",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_123057",
+      "stage": "ablation",
+      "imageIndex": 84,
+      "imageId": "bsds_123057",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_128035",
+      "stage": "ablation",
+      "imageIndex": 85,
+      "imageId": "bsds_128035",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_130014",
+      "stage": "ablation",
+      "imageIndex": 86,
+      "imageId": "bsds_130014",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_130066",
+      "stage": "ablation",
+      "imageIndex": 87,
+      "imageId": "bsds_130066",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_134049",
+      "stage": "ablation",
+      "imageIndex": 88,
+      "imageId": "bsds_134049",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_134067",
+      "stage": "ablation",
+      "imageIndex": 89,
+      "imageId": "bsds_134067",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_140006",
+      "stage": "ablation",
+      "imageIndex": 90,
+      "imageId": "bsds_140006",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_140088",
+      "stage": "ablation",
+      "imageIndex": 91,
+      "imageId": "bsds_140088",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_141012",
+      "stage": "ablation",
+      "imageIndex": 92,
+      "imageId": "bsds_141012",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_141048",
+      "stage": "ablation",
+      "imageIndex": 93,
+      "imageId": "bsds_141048",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_145059",
+      "stage": "ablation",
+      "imageIndex": 94,
+      "imageId": "bsds_145059",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_145079",
+      "stage": "ablation",
+      "imageIndex": 95,
+      "imageId": "bsds_145079",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_146074",
+      "stage": "ablation",
+      "imageIndex": 96,
+      "imageId": "bsds_146074",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_147077",
+      "stage": "ablation",
+      "imageIndex": 97,
+      "imageId": "bsds_147077",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_147080",
+      "stage": "ablation",
+      "imageIndex": 98,
+      "imageId": "bsds_147080",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_156054",
+      "stage": "ablation",
+      "imageIndex": 99,
+      "imageId": "bsds_156054",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_157032",
+      "stage": "ablation",
+      "imageIndex": 100,
+      "imageId": "bsds_157032",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_157087",
+      "stage": "ablation",
+      "imageIndex": 101,
+      "imageId": "bsds_157087",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_159002",
+      "stage": "ablation",
+      "imageIndex": 102,
+      "imageId": "bsds_159002",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_159022",
+      "stage": "ablation",
+      "imageIndex": 103,
+      "imageId": "bsds_159022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_160006",
+      "stage": "ablation",
+      "imageIndex": 104,
+      "imageId": "bsds_160006",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_160067",
+      "stage": "ablation",
+      "imageIndex": 105,
+      "imageId": "bsds_160067",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_161045",
+      "stage": "ablation",
+      "imageIndex": 106,
+      "imageId": "bsds_161045",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_163004",
+      "stage": "ablation",
+      "imageIndex": 107,
+      "imageId": "bsds_163004",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_163096",
+      "stage": "ablation",
+      "imageIndex": 108,
+      "imageId": "bsds_163096",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_164046",
+      "stage": "ablation",
+      "imageIndex": 109,
+      "imageId": "bsds_164046",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_168084",
+      "stage": "ablation",
+      "imageIndex": 110,
+      "imageId": "bsds_168084",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_175083",
+      "stage": "ablation",
+      "imageIndex": 111,
+      "imageId": "bsds_175083",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_176051",
+      "stage": "ablation",
+      "imageIndex": 112,
+      "imageId": "bsds_176051",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_179084",
+      "stage": "ablation",
+      "imageIndex": 113,
+      "imageId": "bsds_179084",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_181021",
+      "stage": "ablation",
+      "imageIndex": 114,
+      "imageId": "bsds_181021",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_183066",
+      "stage": "ablation",
+      "imageIndex": 115,
+      "imageId": "bsds_183066",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_185092",
+      "stage": "ablation",
+      "imageIndex": 116,
+      "imageId": "bsds_185092",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_187058",
+      "stage": "ablation",
+      "imageIndex": 117,
+      "imageId": "bsds_187058",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_187099",
+      "stage": "ablation",
+      "imageIndex": 118,
+      "imageId": "bsds_187099",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_188025",
+      "stage": "ablation",
+      "imageIndex": 119,
+      "imageId": "bsds_188025",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_189006",
+      "stage": "ablation",
+      "imageIndex": 120,
+      "imageId": "bsds_189006",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_189013",
+      "stage": "ablation",
+      "imageIndex": 121,
+      "imageId": "bsds_189013",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_189029",
+      "stage": "ablation",
+      "imageIndex": 122,
+      "imageId": "bsds_189029",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_189096",
+      "stage": "ablation",
+      "imageIndex": 123,
+      "imageId": "bsds_189096",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_196027",
+      "stage": "ablation",
+      "imageIndex": 124,
+      "imageId": "bsds_196027",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_196040",
+      "stage": "ablation",
+      "imageIndex": 125,
+      "imageId": "bsds_196040",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_196062",
+      "stage": "ablation",
+      "imageIndex": 126,
+      "imageId": "bsds_196062",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_196088",
+      "stage": "ablation",
+      "imageIndex": 127,
+      "imageId": "bsds_196088",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_198087",
+      "stage": "ablation",
+      "imageIndex": 128,
+      "imageId": "bsds_198087",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_201080",
+      "stage": "ablation",
+      "imageIndex": 129,
+      "imageId": "bsds_201080",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_202000",
+      "stage": "ablation",
+      "imageIndex": 130,
+      "imageId": "bsds_202000",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_206062",
+      "stage": "ablation",
+      "imageIndex": 131,
+      "imageId": "bsds_206062",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_206097",
+      "stage": "ablation",
+      "imageIndex": 132,
+      "imageId": "bsds_206097",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_207038",
+      "stage": "ablation",
+      "imageIndex": 133,
+      "imageId": "bsds_207038",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_207049",
+      "stage": "ablation",
+      "imageIndex": 134,
+      "imageId": "bsds_207049",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_208078",
+      "stage": "ablation",
+      "imageIndex": 135,
+      "imageId": "bsds_208078",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_209021",
+      "stage": "ablation",
+      "imageIndex": 136,
+      "imageId": "bsds_209021",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_217013",
+      "stage": "ablation",
+      "imageIndex": 137,
+      "imageId": "bsds_217013",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_217090",
+      "stage": "ablation",
+      "imageIndex": 138,
+      "imageId": "bsds_217090",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_220003",
+      "stage": "ablation",
+      "imageIndex": 139,
+      "imageId": "bsds_220003",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_223004",
+      "stage": "ablation",
+      "imageIndex": 140,
+      "imageId": "bsds_223004",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_223060",
+      "stage": "ablation",
+      "imageIndex": 141,
+      "imageId": "bsds_223060",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_225022",
+      "stage": "ablation",
+      "imageIndex": 142,
+      "imageId": "bsds_225022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_226022",
+      "stage": "ablation",
+      "imageIndex": 143,
+      "imageId": "bsds_226022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_226033",
+      "stage": "ablation",
+      "imageIndex": 144,
+      "imageId": "bsds_226033",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_226043",
+      "stage": "ablation",
+      "imageIndex": 145,
+      "imageId": "bsds_226043",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_226060",
+      "stage": "ablation",
+      "imageIndex": 146,
+      "imageId": "bsds_226060",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_228076",
+      "stage": "ablation",
+      "imageIndex": 147,
+      "imageId": "bsds_228076",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_230063",
+      "stage": "ablation",
+      "imageIndex": 148,
+      "imageId": "bsds_230063",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_230098",
+      "stage": "ablation",
+      "imageIndex": 149,
+      "imageId": "bsds_230098",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_232076",
+      "stage": "ablation",
+      "imageIndex": 150,
+      "imageId": "bsds_232076",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_235098",
+      "stage": "ablation",
+      "imageIndex": 151,
+      "imageId": "bsds_235098",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_238025",
+      "stage": "ablation",
+      "imageIndex": 152,
+      "imageId": "bsds_238025",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_243095",
+      "stage": "ablation",
+      "imageIndex": 153,
+      "imageId": "bsds_243095",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_246009",
+      "stage": "ablation",
+      "imageIndex": 154,
+      "imageId": "bsds_246009",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_247003",
+      "stage": "ablation",
+      "imageIndex": 155,
+      "imageId": "bsds_247003",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_247012",
+      "stage": "ablation",
+      "imageIndex": 156,
+      "imageId": "bsds_247012",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_249021",
+      "stage": "ablation",
+      "imageIndex": 157,
+      "imageId": "bsds_249021",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_250047",
+      "stage": "ablation",
+      "imageIndex": 158,
+      "imageId": "bsds_250047",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_250087",
+      "stage": "ablation",
+      "imageIndex": 159,
+      "imageId": "bsds_250087",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_253016",
+      "stage": "ablation",
+      "imageIndex": 160,
+      "imageId": "bsds_253016",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_253092",
+      "stage": "ablation",
+      "imageIndex": 161,
+      "imageId": "bsds_253092",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_257098",
+      "stage": "ablation",
+      "imageIndex": 162,
+      "imageId": "bsds_257098",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_258089",
+      "stage": "ablation",
+      "imageIndex": 163,
+      "imageId": "bsds_258089",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_259060",
+      "stage": "ablation",
+      "imageIndex": 164,
+      "imageId": "bsds_259060",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_267036",
+      "stage": "ablation",
+      "imageIndex": 165,
+      "imageId": "bsds_267036",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_268048",
+      "stage": "ablation",
+      "imageIndex": 166,
+      "imageId": "bsds_268048",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_268074",
+      "stage": "ablation",
+      "imageIndex": 167,
+      "imageId": "bsds_268074",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_277053",
+      "stage": "ablation",
+      "imageIndex": 168,
+      "imageId": "bsds_277053",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_279005",
+      "stage": "ablation",
+      "imageIndex": 169,
+      "imageId": "bsds_279005",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_281017",
+      "stage": "ablation",
+      "imageIndex": 170,
+      "imageId": "bsds_281017",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_285022",
+      "stage": "ablation",
+      "imageIndex": 171,
+      "imageId": "bsds_285022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_288024",
+      "stage": "ablation",
+      "imageIndex": 172,
+      "imageId": "bsds_288024",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_289011",
+      "stage": "ablation",
+      "imageIndex": 173,
+      "imageId": "bsds_289011",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_290035",
+      "stage": "ablation",
+      "imageIndex": 174,
+      "imageId": "bsds_290035",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_296028",
+      "stage": "ablation",
+      "imageIndex": 175,
+      "imageId": "bsds_296028",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_296058",
+      "stage": "ablation",
+      "imageIndex": 176,
+      "imageId": "bsds_296058",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_302022",
+      "stage": "ablation",
+      "imageIndex": 177,
+      "imageId": "bsds_302022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_306051",
+      "stage": "ablation",
+      "imageIndex": 178,
+      "imageId": "bsds_306051",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_306052",
+      "stage": "ablation",
+      "imageIndex": 179,
+      "imageId": "bsds_306052",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_309040",
+      "stage": "ablation",
+      "imageIndex": 180,
+      "imageId": "bsds_309040",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_317043",
+      "stage": "ablation",
+      "imageIndex": 181,
+      "imageId": "bsds_317043",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_326025",
+      "stage": "ablation",
+      "imageIndex": 182,
+      "imageId": "bsds_326025",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_326085",
+      "stage": "ablation",
+      "imageIndex": 183,
+      "imageId": "bsds_326085",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_334025",
+      "stage": "ablation",
+      "imageIndex": 184,
+      "imageId": "bsds_334025",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_335088",
+      "stage": "ablation",
+      "imageIndex": 185,
+      "imageId": "bsds_335088",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_335094",
+      "stage": "ablation",
+      "imageIndex": 186,
+      "imageId": "bsds_335094",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_344010",
+      "stage": "ablation",
+      "imageIndex": 187,
+      "imageId": "bsds_344010",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_346016",
+      "stage": "ablation",
+      "imageIndex": 188,
+      "imageId": "bsds_346016",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_347031",
+      "stage": "ablation",
+      "imageIndex": 189,
+      "imageId": "bsds_347031",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_365072",
+      "stage": "ablation",
+      "imageIndex": 190,
+      "imageId": "bsds_365072",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_368037",
+      "stage": "ablation",
+      "imageIndex": 191,
+      "imageId": "bsds_368037",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_372019",
+      "stage": "ablation",
+      "imageIndex": 192,
+      "imageId": "bsds_372019",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_376086",
+      "stage": "ablation",
+      "imageIndex": 193,
+      "imageId": "bsds_376086",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_384022",
+      "stage": "ablation",
+      "imageIndex": 194,
+      "imageId": "bsds_384022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_384089",
+      "stage": "ablation",
+      "imageIndex": 195,
+      "imageId": "bsds_384089",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_385022",
+      "stage": "ablation",
+      "imageIndex": 196,
+      "imageId": "bsds_385022",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_388006",
+      "stage": "ablation",
+      "imageIndex": 197,
+      "imageId": "bsds_388006",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_388018",
+      "stage": "ablation",
+      "imageIndex": 198,
+      "imageId": "bsds_388018",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_388067",
+      "stage": "ablation",
+      "imageIndex": 199,
+      "imageId": "bsds_388067",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "ablation_bsds_393035",
+      "stage": "ablation",
+      "imageIndex": 200,
+      "imageId": "bsds_393035",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_2018_clean",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_2018_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 42
+    },
+    {
+      "taskId": "noise_bsds_2018_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 137
+    },
+    {
+      "taskId": "noise_bsds_2018_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 2026
+    },
+    {
+      "taskId": "noise_bsds_2018_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 42
+    },
+    {
+      "taskId": "noise_bsds_2018_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 137
+    },
+    {
+      "taskId": "noise_bsds_2018_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 2026
+    },
+    {
+      "taskId": "noise_bsds_2018_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 42
+    },
+    {
+      "taskId": "noise_bsds_2018_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 137
+    },
+    {
+      "taskId": "noise_bsds_2018_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 1,
+      "imageId": "bsds_2018",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 2026
+    },
+    {
+      "taskId": "noise_bsds_3063_clean",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_3063_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 100042
+    },
+    {
+      "taskId": "noise_bsds_3063_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 100137
+    },
+    {
+      "taskId": "noise_bsds_3063_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 102026
+    },
+    {
+      "taskId": "noise_bsds_3063_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 100042
+    },
+    {
+      "taskId": "noise_bsds_3063_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 100137
+    },
+    {
+      "taskId": "noise_bsds_3063_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 102026
+    },
+    {
+      "taskId": "noise_bsds_3063_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 100042
+    },
+    {
+      "taskId": "noise_bsds_3063_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 100137
+    },
+    {
+      "taskId": "noise_bsds_3063_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 2,
+      "imageId": "bsds_3063",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 102026
+    },
+    {
+      "taskId": "noise_bsds_5096_clean",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_5096_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 200042
+    },
+    {
+      "taskId": "noise_bsds_5096_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 200137
+    },
+    {
+      "taskId": "noise_bsds_5096_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 202026
+    },
+    {
+      "taskId": "noise_bsds_5096_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 200042
+    },
+    {
+      "taskId": "noise_bsds_5096_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 200137
+    },
+    {
+      "taskId": "noise_bsds_5096_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 202026
+    },
+    {
+      "taskId": "noise_bsds_5096_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 200042
+    },
+    {
+      "taskId": "noise_bsds_5096_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 200137
+    },
+    {
+      "taskId": "noise_bsds_5096_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 3,
+      "imageId": "bsds_5096",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 202026
+    },
+    {
+      "taskId": "noise_bsds_6046_clean",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_6046_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 300042
+    },
+    {
+      "taskId": "noise_bsds_6046_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 300137
+    },
+    {
+      "taskId": "noise_bsds_6046_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 302026
+    },
+    {
+      "taskId": "noise_bsds_6046_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 300042
+    },
+    {
+      "taskId": "noise_bsds_6046_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 300137
+    },
+    {
+      "taskId": "noise_bsds_6046_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 302026
+    },
+    {
+      "taskId": "noise_bsds_6046_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 300042
+    },
+    {
+      "taskId": "noise_bsds_6046_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 300137
+    },
+    {
+      "taskId": "noise_bsds_6046_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 4,
+      "imageId": "bsds_6046",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 302026
+    },
+    {
+      "taskId": "noise_bsds_8068_clean",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_8068_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 400042
+    },
+    {
+      "taskId": "noise_bsds_8068_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 400137
+    },
+    {
+      "taskId": "noise_bsds_8068_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 402026
+    },
+    {
+      "taskId": "noise_bsds_8068_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 400042
+    },
+    {
+      "taskId": "noise_bsds_8068_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 400137
+    },
+    {
+      "taskId": "noise_bsds_8068_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 402026
+    },
+    {
+      "taskId": "noise_bsds_8068_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 400042
+    },
+    {
+      "taskId": "noise_bsds_8068_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 400137
+    },
+    {
+      "taskId": "noise_bsds_8068_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 5,
+      "imageId": "bsds_8068",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 402026
+    },
+    {
+      "taskId": "noise_bsds_10081_clean",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_10081_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 500042
+    },
+    {
+      "taskId": "noise_bsds_10081_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 500137
+    },
+    {
+      "taskId": "noise_bsds_10081_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 502026
+    },
+    {
+      "taskId": "noise_bsds_10081_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 500042
+    },
+    {
+      "taskId": "noise_bsds_10081_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 500137
+    },
+    {
+      "taskId": "noise_bsds_10081_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 502026
+    },
+    {
+      "taskId": "noise_bsds_10081_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 500042
+    },
+    {
+      "taskId": "noise_bsds_10081_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 500137
+    },
+    {
+      "taskId": "noise_bsds_10081_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 6,
+      "imageId": "bsds_10081",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 502026
+    },
+    {
+      "taskId": "noise_bsds_14085_clean",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_14085_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 600042
+    },
+    {
+      "taskId": "noise_bsds_14085_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 600137
+    },
+    {
+      "taskId": "noise_bsds_14085_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 602026
+    },
+    {
+      "taskId": "noise_bsds_14085_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 600042
+    },
+    {
+      "taskId": "noise_bsds_14085_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 600137
+    },
+    {
+      "taskId": "noise_bsds_14085_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 602026
+    },
+    {
+      "taskId": "noise_bsds_14085_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 600042
+    },
+    {
+      "taskId": "noise_bsds_14085_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 600137
+    },
+    {
+      "taskId": "noise_bsds_14085_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 7,
+      "imageId": "bsds_14085",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 602026
+    },
+    {
+      "taskId": "noise_bsds_14092_clean",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_14092_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 700042
+    },
+    {
+      "taskId": "noise_bsds_14092_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 700137
+    },
+    {
+      "taskId": "noise_bsds_14092_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 702026
+    },
+    {
+      "taskId": "noise_bsds_14092_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 700042
+    },
+    {
+      "taskId": "noise_bsds_14092_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 700137
+    },
+    {
+      "taskId": "noise_bsds_14092_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 702026
+    },
+    {
+      "taskId": "noise_bsds_14092_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 700042
+    },
+    {
+      "taskId": "noise_bsds_14092_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 700137
+    },
+    {
+      "taskId": "noise_bsds_14092_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 8,
+      "imageId": "bsds_14092",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 702026
+    },
+    {
+      "taskId": "noise_bsds_15011_clean",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_15011_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 800042
+    },
+    {
+      "taskId": "noise_bsds_15011_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 800137
+    },
+    {
+      "taskId": "noise_bsds_15011_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 802026
+    },
+    {
+      "taskId": "noise_bsds_15011_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 800042
+    },
+    {
+      "taskId": "noise_bsds_15011_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 800137
+    },
+    {
+      "taskId": "noise_bsds_15011_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 802026
+    },
+    {
+      "taskId": "noise_bsds_15011_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 800042
+    },
+    {
+      "taskId": "noise_bsds_15011_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 800137
+    },
+    {
+      "taskId": "noise_bsds_15011_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 9,
+      "imageId": "bsds_15011",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 802026
+    },
+    {
+      "taskId": "noise_bsds_15062_clean",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0,
+      "seed": 0,
+      "rngSeed": 0
+    },
+    {
+      "taskId": "noise_bsds_15062_s02_seed42",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.02,
+      "seed": 42,
+      "rngSeed": 900042
+    },
+    {
+      "taskId": "noise_bsds_15062_s02_seed137",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.02,
+      "seed": 137,
+      "rngSeed": 900137
+    },
+    {
+      "taskId": "noise_bsds_15062_s02_seed2026",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.02,
+      "seed": 2026,
+      "rngSeed": 902026
+    },
+    {
+      "taskId": "noise_bsds_15062_s05_seed42",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.05,
+      "seed": 42,
+      "rngSeed": 900042
+    },
+    {
+      "taskId": "noise_bsds_15062_s05_seed137",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.05,
+      "seed": 137,
+      "rngSeed": 900137
+    },
+    {
+      "taskId": "noise_bsds_15062_s05_seed2026",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.05,
+      "seed": 2026,
+      "rngSeed": 902026
+    },
+    {
+      "taskId": "noise_bsds_15062_s10_seed42",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.1,
+      "seed": 42,
+      "rngSeed": 900042
+    },
+    {
+      "taskId": "noise_bsds_15062_s10_seed137",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.1,
+      "seed": 137,
+      "rngSeed": 900137
+    },
+    {
+      "taskId": "noise_bsds_15062_s10_seed2026",
+      "stage": "noise",
+      "imageIndex": 10,
+      "imageId": "bsds_15062",
+      "noiseStd": 0.1,
+      "seed": 2026,
+      "rngSeed": 902026
+    }
+  ]
+}

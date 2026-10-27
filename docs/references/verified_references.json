@@ -1,0 +1,269 @@
+[
+  {
+    "key": "cooley1965",
+    "type": "article",
+    "title": "An algorithm for the machine calculation of complex Fourier series",
+    "authors": [
+      [
+        "Cooley",
+        "James W."
+      ],
+      [
+        "Tukey",
+        "John W."
+      ]
+    ],
+    "year": "1965",
+    "journal": "Mathematics of Computation",
+    "volume": "19",
+    "number": "90",
+    "pages": "297-301",
+    "articleNumber": null,
+    "doi": "10.1090/S0025-5718-1965-0178586-1",
+    "url": "https://doi.org/10.1090/S0025-5718-1965-0178586-1",
+    "referenceNumber": 1,
+    "role": "FFT基础",
+    "use": "引出DFT的快速计算；不称本项目发明FFT。",
+    "primarySource": "https://research.ibm.com/publications/an-algorithm-for-the-machine-calculation-of-complex-fourier-series",
+    "verifiedOn": "2026-10-27",
+    "verification": "Crossref书目＋原始论文/作者或出版方页面"
+  },
+  {
+    "key": "dizenzo1986",
+    "type": "article",
+    "title": "A note on the gradient of a multi-image",
+    "authors": [
+      [
+        "Di Zenzo",
+        "Silvano"
+      ]
+    ],
+    "year": "1986",
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "volume": "33",
+    "number": "1",
+    "pages": "116-125",
+    "articleNumber": null,
+    "doi": "10.1016/0734-189X(86)90223-9",
+    "url": "https://doi.org/10.1016/0734-189X(86)90223-9",
+    "referenceNumber": 2,
+    "role": "彩色联合梯度",
+    "use": "张量梯度与最大变化方向；本项目进一步按固定权重融合灰度/颜色张量。",
+    "primarySource": "https://people.csail.mit.edu/tieu/notebook/imageproc/dizenzo86.pdf",
+    "verifiedOn": "2026-10-27",
+    "verification": "Crossref书目＋原始论文/作者或出版方页面"
+  },
+  {
+    "key": "canny1986",
+    "type": "article",
+    "title": "A Computational Approach to Edge Detection",
+    "authors": [
+      [
+        "Canny",
+        "John"
+      ]
+    ],
+    "year": "1986",
+    "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "volume": "PAMI-8",
+    "number": "6",
+    "pages": "679-698",
+    "articleNumber": null,
+    "doi": "10.1109/TPAMI.1986.4767851",
+    "url": "https://doi.org/10.1109/TPAMI.1986.4767851",
+    "referenceNumber": 3,
+    "role": "传统对照与NMS/连接思想",
+    "use": "引用经典边缘检测原理；本项目使用固定参数的MATLAB对照。",
+    "primarySource": "https://www.cs.princeton.edu/courses/archive/fall13/cos429/papers/Canny86.pdf",
+    "verifiedOn": "2026-10-27",
+    "verification": "Crossref书目＋原始论文/作者或出版方页面"
+  },
+  {
+    "key": "kovesi2003",
+    "type": "inproceedings",
+    "title": "Phase Congruency Detects Corners and Edges",
+    "authors": [
+      [
+        "Kovesi",
+        "Peter"
+      ]
+    ],
+    "year": "2003",
+    "booktitle": "Digital Image Computing: Techniques and Applications 2003",
+    "publisher": "CSIRO Publishing",
+    "volume": "1",
+    "pages": "309-318",
+    "url": "https://www.peterkovesi.com/papers/phasecorners.pdf",
+    "referenceNumber": 4,
+    "role": "相位一致性原理",
+    "use": "以相位一致性主矩提供边缘支持；不把完整新管线称对对比度完全不变。",
+    "primarySource": "https://research-repository.uwa.edu.au/en/publications/phase-congruency-detects-corners-and-edges/",
+    "verifiedOn": "2026-10-27",
+    "verification": "作者/机构官方条目；软件以官方文档为准"
+  },
+  {
+    "key": "arbelaez2011",
+    "type": "article",
+    "title": "Contour Detection and Hierarchical Image Segmentation",
+    "authors": [
+      [
+        "Arbeláez",
+        "Pablo"
+      ],
+      [
+        "Maire",
+        "Michael"
+      ],
+      [
+        "Fowlkes",
+        "Charless"
+      ],
+      [
+        "Malik",
+        "Jitendra"
+      ]
+    ],
+    "year": "2011",
+    "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "volume": "33",
+    "number": "5",
+    "pages": "898-916",
+    "articleNumber": null,
+    "doi": "10.1109/TPAMI.2010.161",
+    "url": "https://doi.org/10.1109/TPAMI.2010.161",
+    "metadataCorrection": "Crossref作者重音出现编码损坏；依据Berkeley官方作者条目规范化。正式卷期为2011，DOI含2010不改正式年。",
+    "referenceNumber": 5,
+    "role": "BSDS与官方边界评价",
+    "use": "支持多人标注、匹配与数据划分；本项目仅报告固定工作点，不宣称完整榜单协议已做。",
+    "primarySource": "https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html",
+    "verifiedOn": "2026-10-27",
+    "verification": "Crossref书目＋原始论文/作者或出版方页面"
+  },
+  {
+    "key": "li2023m2gf",
+    "type": "article",
+    "title": "M2GF: Multi-Scale and Multi-Directional Gabor Filters for Image Edge Detection",
+    "authors": [
+      [
+        "Li",
+        "Yunhong"
+      ],
+      [
+        "Bi",
+        "Yuandong"
+      ],
+      [
+        "Zhang",
+        "Weichuan"
+      ],
+      [
+        "Ren",
+        "Jie"
+      ],
+      [
+        "Chen",
+        "Jinni"
+      ]
+    ],
+    "year": "2023",
+    "journal": "Applied Sciences",
+    "volume": "13",
+    "number": "16",
+    "pages": "9409",
+    "articleNumber": null,
+    "doi": "10.3390/app13169409",
+    "url": "https://doi.org/10.3390/app13169409",
+    "referenceNumber": 6,
+    "role": "近五年相关工作：2023",
+    "use": "Lab多通道、多尺度多方向Gabor与特征融合；用于说明颜色与频率/方向选择研究，未完整复现。",
+    "primarySource": "https://www.mdpi.com/2076-3417/13/16/9409",
+    "verifiedOn": "2026-10-27",
+    "verification": "Crossref书目＋原始论文/作者或出版方页面"
+  },
+  {
+    "key": "gao2026",
+    "type": "article",
+    "title": "Research on real-time edge detection algorithm for video frames based on Gabor filtering and directional enhanced Sobel operator",
+    "authors": [
+      [
+        "Gao",
+        "Xianghua"
+      ],
+      [
+        "Gao",
+        "Shangtao"
+      ]
+    ],
+    "year": "2026",
+    "journal": "Discover Computing",
+    "volume": "29",
+    "number": "1",
+    "pages": null,
+    "articleNumber": "137",
+    "doi": "10.1007/s10791-026-10008-0",
+    "url": "https://doi.org/10.1007/s10791-026-10008-0",
+    "referenceNumber": 7,
+    "role": "近五年相关工作：2026",
+    "use": "Gabor与方向增强Sobel、局部一致性融合，正文讨论FFT/可分离卷积；未在本项目同场复现。",
+    "primarySource": "https://link.springer.com/article/10.1007/s10791-026-10008-0",
+    "verifiedOn": "2026-10-27",
+    "verification": "Crossref书目＋原始论文/作者或出版方页面"
+  },
+  {
+    "key": "kovesiSoftware",
+    "type": "misc",
+    "title": "MATLAB and Octave Functions for Computer Vision and Image Processing",
+    "authors": [
+      [
+        "Kovesi",
+        "Peter"
+      ]
+    ],
+    "url": "https://www.peterkovesi.com/matlabfns/",
+    "urldate": "2026-10-27",
+    "referenceNumber": 8,
+    "role": "实际复用的软件",
+    "use": "phasecong3及依赖来自作者公开MATLAB代码；原版权许可随源码保留。作者站当前重定向Codeberg，引用旧网址可追溯来源。",
+    "primarySource": "https://codeberg.org/peterkovesi/matlabfns",
+    "verifiedOn": "2026-10-27",
+    "verification": "作者/机构官方条目；软件以官方文档为准"
+  },
+  {
+    "key": "mathworksFFT2",
+    "type": "misc",
+    "title": "fft2: 2-D fast Fourier transform",
+    "authors": [
+      [
+        "MathWorks",
+        ""
+      ]
+    ],
+    "url": "https://www.mathworks.com/help/matlab/ref/fft2.html",
+    "urldate": "2026-10-27",
+    "referenceNumber": 9,
+    "role": "MATLAB实现文档",
+    "use": "仅作函数接口及二维FFT实现依据，不当研究论文。",
+    "primarySource": "https://www.mathworks.com/help/matlab/ref/fft2.html",
+    "verifiedOn": "2026-10-27",
+    "verification": "作者/机构官方条目；软件以官方文档为准"
+  },
+  {
+    "key": "mathworksEdge",
+    "type": "misc",
+    "title": "edge: Find edges in 2-D grayscale image",
+    "authors": [
+      [
+        "MathWorks",
+        ""
+      ]
+    ],
+    "url": "https://www.mathworks.com/help/images/ref/edge.html",
+    "urldate": "2026-10-27",
+    "referenceNumber": 10,
+    "role": "MATLAB对照文档",
+    "use": "说明Sobel/Canny参数接口；网页不是算法首创文献。",
+    "primarySource": "https://www.mathworks.com/help/images/ref/edge.html",
+    "verifiedOn": "2026-10-27",
+    "verification": "作者/机构官方条目；软件以官方文档为准"
+  }
+]

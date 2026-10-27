@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "images": 12,
+  "rows": 60,
+  "grayRegression": 12,
+  "rgbRegression": 12,
+  "anisotropicSupport": false
+}

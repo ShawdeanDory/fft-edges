@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "validationRows": 2088,
+  "fixedTestRows": 280,
+  "thresholds": 35,
+  "benchmarkImages": 40,
+  "gpuRequired": false,
+  "training": false
+}

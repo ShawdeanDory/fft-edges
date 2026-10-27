@@ -1,0 +1,54 @@
+{
+  "status": "locked_before_course_test",
+  "lockedAt": "2026-10-26 23:19:11",
+  "choices": [
+    {
+      "method": "fft_gaussian",
+      "sigma": 1.8,
+      "normalization": "peak",
+      "high": 0.32,
+      "low": 0.128,
+      "cutoff": 0.06,
+      "factor": 1
+    },
+    {
+      "method": "sobel",
+      "sigma": null,
+      "normalization": "none",
+      "high": null,
+      "low": null,
+      "cutoff": null,
+      "factor": 0.75
+    },
+    {
+      "method": "canny",
+      "sigma": 1.8,
+      "normalization": "none",
+      "high": 0.24,
+      "low": 0.096,
+      "cutoff": null,
+      "factor": 1
+    },
+    {
+      "method": "ideal_highpass",
+      "sigma": null,
+      "normalization": "none",
+      "high": null,
+      "low": null,
+      "cutoff": 0.06,
+      "factor": 1.25
+    },
+    {
+      "method": "gaussian_highpass",
+      "sigma": null,
+      "normalization": "none",
+      "high": null,
+      "low": null,
+      "cutoff": 0.06,
+      "factor": 1.25
+    }
+  ],
+  "selection": "Mean F1 across12validation images",
+  "testUsedForParameterSelection": false,
+  "testIsNewUnseenData": false
+}

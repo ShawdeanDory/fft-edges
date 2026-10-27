@@ -1,0 +1,124 @@
+{
+  "lockedAt": "2026-10-27 10:11:40",
+  "choices": [
+    {
+      "candidateId": "phase_001",
+      "branch": "fft_baseline",
+      "kind": "fft",
+      "k": 0,
+      "alpha": 0,
+      "angle": 0,
+      "high": 0.32,
+      "ratio": 0.4
+    },
+    {
+      "candidateId": "phase_009",
+      "branch": "threshold_control",
+      "kind": "fft",
+      "k": 0,
+      "alpha": 0,
+      "angle": 0,
+      "high": 0.32,
+      "ratio": 0.4
+    },
+    {
+      "candidateId": "phase_035",
+      "branch": "phase_only",
+      "kind": "phase",
+      "k": 4,
+      "alpha": 0,
+      "angle": 0,
+      "high": 0.1,
+      "ratio": 0.3
+    },
+    {
+      "candidateId": "phase_081",
+      "branch": "fft_phase",
+      "kind": "fusion",
+      "k": 4,
+      "alpha": 0.25,
+      "angle": 0,
+      "high": 0.32,
+      "ratio": 0.3
+    },
+    {
+      "candidateId": "phase_111",
+      "branch": "fft_direction",
+      "kind": "fft",
+      "k": 0,
+      "alpha": 0,
+      "angle": 45,
+      "high": 0.32,
+      "ratio": 0.3
+    },
+    {
+      "candidateId": "phase_167",
+      "branch": "fft_phase_direction",
+      "kind": "fusion",
+      "k": 4,
+      "alpha": 0.5,
+      "angle": 60,
+      "high": 0.26,
+      "ratio": 0.3
+    },
+    {
+      "candidateId": "existing_canny",
+      "branch": "canny",
+      "kind": "canny",
+      "k": 0,
+      "alpha": 0,
+      "angle": 0,
+      "high": 0.24,
+      "ratio": 0.4
+    }
+  ],
+  "decisions": [
+    {
+      "method": "threshold_control",
+      "candidateId": "phase_009",
+      "precision": 0.53545214818548459,
+      "recall": 0.576427855978499,
+      "f1": 0.52546580659006459,
+      "feasible": true,
+      "validationRetained": false
+    },
+    {
+      "method": "phase_only",
+      "candidateId": "phase_035",
+      "precision": 0.44995266396909778,
+      "recall": 0.628123057769495,
+      "f1": 0.50082229124972466,
+      "feasible": false,
+      "validationRetained": false
+    },
+    {
+      "method": "fft_phase",
+      "candidateId": "phase_081",
+      "precision": 0.55022795438409122,
+      "recall": 0.55712043511062626,
+      "f1": 0.5293643678347949,
+      "feasible": true,
+      "validationRetained": true
+    },
+    {
+      "method": "fft_direction",
+      "candidateId": "phase_111",
+      "precision": 0.541156840538915,
+      "recall": 0.56428182733128784,
+      "f1": 0.52419924139326923,
+      "feasible": false,
+      "validationRetained": false
+    },
+    {
+      "method": "fft_phase_direction",
+      "candidateId": "phase_167",
+      "precision": 0.54175982165670045,
+      "recall": 0.55551728106318066,
+      "f1": 0.52804104380844263,
+      "feasible": true,
+      "validationRetained": true
+    }
+  ],
+  "selectionUsesTest": false,
+  "F1MayDecrease": false
+}

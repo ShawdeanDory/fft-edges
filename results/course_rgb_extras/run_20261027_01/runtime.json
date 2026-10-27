@@ -1,0 +1,15 @@
+{
+  "matlabVersion": "26.2.0.3386108 (R2026b)",
+  "matlabRelease": "2026b",
+  "imageProcessingToolbox": {
+    "Name": "Image Processing Toolbox",
+    "Version": "26.2",
+    "Release": "(R2026b)",
+    "Date": "22-May-2026"
+  },
+  "ablationImages": 200,
+  "noiseImages": 10,
+  "noiseSeeds": 3,
+  "training": false,
+  "gpuRequired": false
+}

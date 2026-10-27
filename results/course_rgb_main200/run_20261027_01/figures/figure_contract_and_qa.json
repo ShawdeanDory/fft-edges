@@ -1,0 +1,87 @@
+{
+  "status": "PASS",
+  "backend": "python",
+  "conclusion": "Quantify all200 fixed-parameter pipelines and paired differences; examples explain outputs, not dataset superiority.",
+  "archetypes": [
+    "quantitative grid",
+    "image plate + quant"
+  ],
+  "images": 200,
+  "methods": 6,
+  "excludedImages": 0,
+  "expectedFigures": 6,
+  "sourceData": [
+    "fixed_metrics.csv",
+    "fixed_summary.csv",
+    "paired_intervals.csv"
+  ],
+  "examples": [
+    {
+      "imageId": "bsds_2018",
+      "crop": false,
+      "photometricChanges": false,
+      "groundTruth": "Union display only; original individual labels for scoring.",
+      "source": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_full200\\images\\bsds_2018.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_full200\\references\\bsds_2018.mat",
+      "sample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_main200\\run_20261027_01\\samples\\bsds_2018.mat"
+    },
+    {
+      "imageId": "bsds_3063",
+      "crop": false,
+      "photometricChanges": false,
+      "groundTruth": "Union display only; original individual labels for scoring.",
+      "source": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_full200\\images\\bsds_3063.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_full200\\references\\bsds_3063.mat",
+      "sample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_main200\\run_20261027_01\\samples\\bsds_3063.mat"
+    },
+    {
+      "imageId": "bsds_5096",
+      "crop": false,
+      "photometricChanges": false,
+      "groundTruth": "Union display only; original individual labels for scoring.",
+      "source": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_full200\\images\\bsds_5096.jpg",
+      "reference": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\data\\course_full200\\references\\bsds_5096.mat",
+      "sample": "C:\\Users\\Lenovo\\Desktop\\傅里叶\\results\\course_rgb_main200\\run_20261027_01\\samples\\bsds_5096.mat"
+    }
+  ],
+  "exports": [
+    "PNG300dpi",
+    "PDF editable text",
+    "SVG editable text"
+  ],
+  "imageIntegrity": "Native arrays; no cropping or photo contrast change; edge display black-on-white; each spectrum individually scaled for display only.",
+  "statistics": "Pooled counts; paired image bootstrap20000; marginal95%; ten P/F1 differences corrected99.5%; Recall95% descriptive.",
+  "visualInspection": "All six PNGs reviewed: labels and intervals readable, no clipping/overlap, complete native images and expected methods; fixed examples include unfavorable individual RGB-vs-gray outcomes.",
+  "editableTextChecks": [
+    {
+      "figure": "bsds_2018_six_methods",
+      "pdfExtractableTextCharacters": 436,
+      "svgTextElements": 16
+    },
+    {
+      "figure": "bsds_3063_six_methods",
+      "pdfExtractableTextCharacters": 436,
+      "svgTextElements": 16
+    },
+    {
+      "figure": "bsds_5096_six_methods",
+      "pdfExtractableTextCharacters": 436,
+      "svgTextElements": 16
+    },
+    {
+      "figure": "test200_fixed_scores",
+      "pdfExtractableTextCharacters": 388,
+      "svgTextElements": 30
+    },
+    {
+      "figure": "test200_paired_changes",
+      "pdfExtractableTextCharacters": 468,
+      "svgTextElements": 30
+    },
+    {
+      "figure": "test200_rgb_spectra_and_responses",
+      "pdfExtractableTextCharacters": 185,
+      "svgTextElements": 7
+    }
+  ]
+}

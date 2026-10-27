@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "images": 200,
+  "methods": 6,
+  "rows": 1200,
+  "missingImages": 0,
+  "duplicatedRows": 0,
+  "pythonMatlabAggregateMaxError": 4.996003610813204e-16,
+  "grayMaskRegression": 200,
+  "parameterSourcesUnchanged": true,
+  "bootstrapReplicates": 20000,
+  "samePairedImageResamples": true,
+  "primaryComparisons": 10,
+  "maximumHistoricalGrayRescoreCountChange": 11
+}

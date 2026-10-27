@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "completedAt": "2026-10-27T20:15:16.841285+08:00",
+  "images": 200,
+  "methods": 6,
+  "rows": 1200,
+  "mainMethod": "rgb_main",
+  "parametersFrozen": true,
+  "newParameterSearch": false,
+  "thresholdScan": false,
+  "newNoise": false,
+  "training": false,
+  "gpuRequired": false,
+  "source": "PASS",
+  "data": "PASS",
+  "regression": "PASS",
+  "tables": "PASS",
+  "interpretation": "Previously observed full official test split; frozen-config regression, not a new blind test.",
+  "figures": "PASS",
+  "figureSets": 6,
+  "figureFormats": [
+    "PNG",
+    "PDF",
+    "SVG"
+  ]
+}

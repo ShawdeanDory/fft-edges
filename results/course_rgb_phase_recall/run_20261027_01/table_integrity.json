@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "images": 88,
+  "methods": 4,
+  "rows": 352,
+  "diagnosticRows": 60,
+  "selectionRows": 72,
+  "missingImages": 0,
+  "duplicatedRows": 0,
+  "originalMaskRegressions": 264,
+  "pythonMatlabAggregateMaxError": 4.440892098500626e-16,
+  "sourceChecks": "PASS",
+  "samePairedImageResamples": true,
+  "primaryEndpoints": 4,
+  "anisotropicDependencies": false
+}

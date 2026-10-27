@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "images": 200,
+  "rows": 1200,
+  "grayMaskRegression": 200,
+  "currentMainEntryAgreement": true,
+  "methodsPerImage": 6,
+  "scoredThinningCountsMatch": true
+}

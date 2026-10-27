@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "tasks": 300,
+  "ablationRows": 1000,
+  "noiseRows": 600,
+  "allRows": 1600,
+  "cleanSixMethodMaskRegressions": 60,
+  "mainGrayAblationMaskRegressions": 400,
+  "frozenParameters": true
+}

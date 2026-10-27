@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "completedAt": "2026-10-27T19:40:19.842118+08:00",
+  "images": 88,
+  "rows": 352,
+  "diagnosticImages": 12,
+  "diagnosticRows": 60,
+  "selectionRows": 72,
+  "decision": "target_not_met",
+  "selected": {
+    "candidateId": "phase_recall_01",
+    "family": "link_only",
+    "seedEta": 0,
+    "linkEta": 0.125,
+    "seedSupport": "Q",
+    "linkSupport": "Q"
+  },
+  "grayMainChanged": false,
+  "anisotropicSupport": false,
+  "test200Used": false,
+  "source": "PASS",
+  "regression": "PASS",
+  "tables": "PASS"
+}

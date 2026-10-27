@@ -1,0 +1,116 @@
+TY  - JOUR
+AU  - Cooley, James W.
+AU  - Tukey, John W.
+TI  - An algorithm for the machine calculation of complex Fourier series
+PY  - 1965
+JO  - Mathematics of Computation
+VL  - 19
+IS  - 90
+DO  - 10.1090/S0025-5718-1965-0178586-1
+UR  - https://doi.org/10.1090/S0025-5718-1965-0178586-1
+SP  - 297
+EP  - 301
+ER  - 
+
+TY  - JOUR
+AU  - Di Zenzo, Silvano
+TI  - A note on the gradient of a multi-image
+PY  - 1986
+JO  - Computer Vision, Graphics, and Image Processing
+VL  - 33
+IS  - 1
+DO  - 10.1016/0734-189X(86)90223-9
+UR  - https://doi.org/10.1016/0734-189X(86)90223-9
+SP  - 116
+EP  - 125
+ER  - 
+
+TY  - JOUR
+AU  - Canny, John
+TI  - A Computational Approach to Edge Detection
+PY  - 1986
+JO  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+VL  - PAMI-8
+IS  - 6
+DO  - 10.1109/TPAMI.1986.4767851
+UR  - https://doi.org/10.1109/TPAMI.1986.4767851
+SP  - 679
+EP  - 698
+ER  - 
+
+TY  - CPAPER
+AU  - Kovesi, Peter
+TI  - Phase Congruency Detects Corners and Edges
+PY  - 2003
+T2  - Digital Image Computing: Techniques and Applications 2003
+VL  - 1
+UR  - https://www.peterkovesi.com/papers/phasecorners.pdf
+SP  - 309
+EP  - 318
+ER  - 
+
+TY  - JOUR
+AU  - Arbeláez, Pablo
+AU  - Maire, Michael
+AU  - Fowlkes, Charless
+AU  - Malik, Jitendra
+TI  - Contour Detection and Hierarchical Image Segmentation
+PY  - 2011
+JO  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+VL  - 33
+IS  - 5
+DO  - 10.1109/TPAMI.2010.161
+UR  - https://doi.org/10.1109/TPAMI.2010.161
+SP  - 898
+EP  - 916
+ER  - 
+
+TY  - JOUR
+AU  - Li, Yunhong
+AU  - Bi, Yuandong
+AU  - Zhang, Weichuan
+AU  - Ren, Jie
+AU  - Chen, Jinni
+TI  - M2GF: Multi-Scale and Multi-Directional Gabor Filters for Image Edge Detection
+PY  - 2023
+JO  - Applied Sciences
+VL  - 13
+IS  - 16
+DO  - 10.3390/app13169409
+UR  - https://doi.org/10.3390/app13169409
+SP  - 9409
+ER  - 
+
+TY  - JOUR
+AU  - Gao, Xianghua
+AU  - Gao, Shangtao
+TI  - Research on real-time edge detection algorithm for video frames based on Gabor filtering and directional enhanced Sobel operator
+PY  - 2026
+JO  - Discover Computing
+VL  - 29
+IS  - 1
+DO  - 10.1007/s10791-026-10008-0
+UR  - https://doi.org/10.1007/s10791-026-10008-0
+C7  - 137
+ER  - 
+
+TY  - ELEC
+AU  - Kovesi, Peter
+TI  - MATLAB and Octave Functions for Computer Vision and Image Processing
+UR  - https://www.peterkovesi.com/matlabfns/
+Y2  - 2026-10-27
+ER  - 
+
+TY  - ELEC
+AU  - MathWorks
+TI  - fft2: 2-D fast Fourier transform
+UR  - https://www.mathworks.com/help/matlab/ref/fft2.html
+Y2  - 2026-10-27
+ER  - 
+
+TY  - ELEC
+AU  - MathWorks
+TI  - edge: Find edges in 2-D grayscale image
+UR  - https://www.mathworks.com/help/images/ref/edge.html
+Y2  - 2026-10-27
+ER  -

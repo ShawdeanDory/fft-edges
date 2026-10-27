@@ -1,0 +1,116 @@
+{
+  "lockedAt": "2026-10-27T19:29:38.614773+08:00",
+  "selected": {
+    "candidateId": "phase_recall_01",
+    "family": "link_only",
+    "seedEta": 0,
+    "linkEta": 0.125,
+    "seedSupport": "Q",
+    "linkSupport": "Q"
+  },
+  "selectionSummary": {
+    "candidateId": "phase_recall_01",
+    "family": "link_only",
+    "seedEta": 0.0,
+    "linkEta": 0.125,
+    "seedSupport": "Q",
+    "linkSupport": "Q",
+    "images": 12,
+    "precision": 0.5298927150025956,
+    "recall": 0.701741227192924,
+    "f1": 0.6038280553451679,
+    "macroF1": 0.6234877701677284,
+    "deltaPrecision": 0.008634413709341482,
+    "deltaRecall": -0.0062893081761006275,
+    "deltaF1": 0.003372274534064079,
+    "deltaMacroF1": 0.0019149371247588753,
+    "eligible": true
+  },
+  "protocolSHA256": "9a64fcfe3328be49f4e7d9892be2672fbd4ec873f8bd7ceddee2ac35ad97ccee",
+  "selectorSHA256": "a0e6888b48030d37d6a95720a30c426c09467982826e758bf7d88f9e17b63b5a",
+  "numericalSources": [
+    {
+      "source": "matlab/course_rgb_phase_features.m",
+      "sha256": "6a6f457e54cd57c5ca2826972316aa0b133eca3efb4c17eaa5be2d50c6d633e5"
+    },
+    {
+      "source": "matlab/course_rgb_phase_map.m",
+      "sha256": "f2505ce7cf9e046acc7ad441b7c8bd183fa4c0840b69c618d84a2cc66bc64249"
+    },
+    {
+      "source": "matlab/course_fourier_scale_bank.m",
+      "sha256": "bed09eed5dda7f56c8e1155bb412afdd79f107fdbe0a4475be509c47b46bd684"
+    },
+    {
+      "source": "matlab/course_phase_features.m",
+      "sha256": "2fd52340df1ad3cd2bceb23b85d13f244e76e40a6fac9a8da2e0c205dabca461"
+    },
+    {
+      "source": "matlab/course_phase_edges.m",
+      "sha256": "eb3ae03d4e98c970d4366cf3a9c8412258b91871ec13bbd4847932a49b089b9c"
+    },
+    {
+      "source": "matlab/course_directional_hysteresis.m",
+      "sha256": "1cf4b9af1e6ac1b650cba45767b3f4baefc17e82a7eaedd8b9b9637935629e16"
+    },
+    {
+      "source": "matlab/gradient_nonmax_suppression.m",
+      "sha256": "c3448d22b213a24e0a1adc3ab3f54253bf5f1c4ccaf42211b1464d69663ce3a9"
+    },
+    {
+      "source": "external/kovesi/phasecong3.m",
+      "sha256": "1c7a7f9c6f814ca41db790e6c6cfb350d41985997e07301f33538b303cd40fdd"
+    },
+    {
+      "source": "external/kovesi/lowpassfilter.m",
+      "sha256": "f5c8b689d54741355948af35626f3355b4d413c833d84db3fa82c63e5499c3de"
+    },
+    {
+      "source": "external/kovesi/filtergrid.m",
+      "sha256": "082db2c5ea12ae064eb97b7123522ca0f25107be604a43bf9ee6c310375636a7"
+    },
+    {
+      "source": "external/kovesi/rayleighmode.m",
+      "sha256": "80a265bed528211aa708dcd58f7a95db36eeb7f873c6fe4ddab0b3a1dc0973a4"
+    },
+    {
+      "source": "external/structured_edges/course_match_boundaries.m",
+      "sha256": "4c68413f4dd46bdfa2941ed3042243d504bb3eefcc71b0355abe4b2e2d1bec3b"
+    },
+    {
+      "source": "matlab/course_rgb_phase_gate_features.m",
+      "sha256": "f7b1f92e5546feb7030c433f31262eca281a2efabbd7265ea0c36157fe98285e"
+    },
+    {
+      "source": "matlab/course_rgb_phase_gate_hysteresis.m",
+      "sha256": "c3d3f5c201325f26750f02a2ce6c89ecdd121ee6971ec836a7af719c9037a38e"
+    },
+    {
+      "source": "matlab/run_course_rgb_phase_recall_diagnosis.m",
+      "sha256": "5411f99d43e7545aed90a7ccad66afc22defca8d503147d938e2883f2255f6b9"
+    },
+    {
+      "source": "matlab/run_course_rgb_phase_recall.m",
+      "sha256": "98f49ff17ade6ae708460677545569b85470f5e505747b7485d64d3c556a9bee"
+    },
+    {
+      "source": "matlab/verify_course_rgb_phase_recall.m",
+      "sha256": "0d2dcd85209b2abe22ab17a36573b28d104934ee0dca02adb98aac7172164346"
+    },
+    {
+      "source": "matlab/course_fourier_rgb_phase_gate_edges.m",
+      "sha256": "f07c5409b42e53db04536bf603695a82a196a4188186b7e7323e8a9a4ba3d4ed"
+    },
+    {
+      "source": "matlab/course_fourier_rgb_supported_edges.m",
+      "sha256": "08268dc71ffe8c15ee1e7f78ba8955cb29ad59c90a3dc84817f06a563600d783"
+    }
+  ],
+  "originalRGBLockSHA256": "2242e53e19eada0ac3362bab34e9ba6fafaaa772e5448eb6ac0db84df1f017c1",
+  "anisotropicSupport": false,
+  "grayMainChanged": false,
+  "selectionImages": 12,
+  "confirmationImages": 88,
+  "retuneAllowed": false,
+  "history": "All val100 previously observed; new selection only old12; freeze one candidate before remaining88. Supplementary exploratory confirmation, not blind."
+}

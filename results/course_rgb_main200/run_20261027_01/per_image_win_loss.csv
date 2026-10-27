@@ -1,0 +1,6 @@
+comparator,improvedF1Images,worseF1Images,equalF1Images
+gray_phase,141,59,0
+sobel,174,26,0
+canny,107,93,0
+ideal_highpass,191,9,0
+gaussian_highpass,192,8,0

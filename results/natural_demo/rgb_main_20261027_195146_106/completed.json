@@ -1,0 +1,15 @@
+{
+  "status": "completed",
+  "mainMethod": "rgb_phase_gate",
+  "candidateId": "phase_recall_01",
+  "grayRole": "comparison",
+  "methods": 6,
+  "referenceAvailable": true,
+  "imageId": "bsds_3096",
+  "evaluation": "Official matcher maxDist=.0075, thin=1; single-image demonstration only.",
+  "controlParameterNote": "Four traditional controls retain historical course validation settings; no new selection.",
+  "parameterSearch": false,
+  "training": false,
+  "gpuRequired": false,
+  "anisotropicSupport": false
+}

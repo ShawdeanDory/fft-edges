@@ -1,0 +1,20 @@
+{
+  "mainMethod": "rgb_phase_gate",
+  "mainName": "RGB二维FFT＋相位门控边缘检测",
+  "candidateId": "phase_recall_01",
+  "comparisonMethod": "gray_phase",
+  "sigma": 1.8,
+  "colorWeight": 0.25,
+  "phaseWeight": 0.25,
+  "padding": 32,
+  "high": 0.32,
+  "ratio": 0.3,
+  "seedEta": 0,
+  "linkEta": 0.125,
+  "anisotropicSupport": false,
+  "training": false,
+  "gpuRequired": false,
+  "frozenRun": "results/course_rgb_phase_recall/run_20261027_01",
+  "roleDecision": "User explicitly selected RGB as the project main method; gray remains a comparison.",
+  "statisticalDecision": "Historical target_not_met is preserved; role selection does not establish stable F1 superiority."
+}
