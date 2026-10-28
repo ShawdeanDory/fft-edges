@@ -1,0 +1,118 @@
+{
+  "status": "PASS",
+  "sourceBytesMatch": 7,
+  "visualInspection": "All four final 300 dpi previews inspected; no clipping, overlaps, or missing glyphs.",
+  "analysisTextInsideFigures": false,
+  "figures": {
+    "fig01_rgb_spectra_responses_cn": {
+      "widthCm": 16.0,
+      "heightCm": 10.2,
+      "pngPixels": [
+        3779,
+        2409
+      ],
+      "pngDpi": 599.9988,
+      "fonts": [
+        {
+          "name": "/GKOALG+SimSun",
+          "embedded": true
+        },
+        {
+          "name": "/GPFTHM+TimesNewRomanPSMT",
+          "embedded": true
+        }
+      ],
+      "svgTextEditable": true,
+      "pdfTextSelectable": true,
+      "minimumTextPt": 10.0
+    },
+    "fig02_six_method_comparison_cn": {
+      "widthCm": 16.0,
+      "heightCm": 8.8,
+      "pngPixels": [
+        3779,
+        2078
+      ],
+      "pngDpi": 599.9988,
+      "fonts": [
+        {
+          "name": "/HEGYAA+SimSun",
+          "embedded": true
+        },
+        {
+          "name": "/EOYHXQ+TimesNewRomanPSMT",
+          "embedded": true
+        }
+      ],
+      "svgTextEditable": true,
+      "pdfTextSelectable": true,
+      "minimumTextPt": 10.0
+    },
+    "fig03_module_paired_changes_cn": {
+      "widthCm": 16.0,
+      "heightCm": 6.6,
+      "pngPixels": [
+        3779,
+        1559
+      ],
+      "pngDpi": 599.9988,
+      "fonts": [
+        {
+          "name": "/FDVIVT+SimSun",
+          "embedded": true
+        },
+        {
+          "name": "/CCBGYU+TimesNewRomanPSMT",
+          "embedded": true
+        }
+      ],
+      "svgTextEditable": true,
+      "pdfTextSelectable": true,
+      "minimumTextPt": 10.0
+    },
+    "fig04_noise_robustness_cn": {
+      "widthCm": 16.0,
+      "heightCm": 8.1,
+      "pngPixels": [
+        3779,
+        1913
+      ],
+      "pngDpi": 599.9988,
+      "fonts": [
+        {
+          "name": "/FIQQFO+SimSun",
+          "embedded": true
+        },
+        {
+          "name": "/BURZPX+TimesNewRomanPSMT",
+          "embedded": true
+        }
+      ],
+      "svgTextEditable": true,
+      "pdfTextSelectable": true,
+      "minimumTextPt": 10.0
+    }
+  },
+  "dataVerification": {
+    "ablationPointsAndIntervals": 15,
+    "noiseCurvePoints": 24,
+    "noisePairedPointsAndIntervals": 6,
+    "statisticsRecomputed": false,
+    "allComparedValues": "PASS"
+  },
+  "staticPreflight": {
+    "rawCounts": {
+      "PASS": 11,
+      "WARN": 2,
+      "FAIL": 1
+    },
+    "templateOverride": {
+      "check": "FONT-FAMILY",
+      "reason": "The generic validator only permits sans-serif publication fonts. The user explicitly requires the course template: SimSun and Times New Roman. Both actual font families were verified and embedded in all four PDFs."
+    },
+    "acceptedWarnings": {
+      "EXPORT-RASTER": "PNG 600 dpi plus PDF/SVG meet the Word/PPT deliverable; no TIFF required.",
+      "FINAL-WIDTH": "160 mm follows the A4 course template, rather than journal 89/183 mm defaults."
+    }
+  }
+}

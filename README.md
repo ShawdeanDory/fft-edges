@@ -6,7 +6,19 @@
 
 [基于二维傅里叶变换与相位支持的彩色图像边缘检测及实验分析](paper/基于二维傅里叶变换与相位支持的彩色图像边缘检测及实验分析.docx)
 
-Word稿保留课程模板原封面，供小组填写成员信息；正文及参考文献6页，当前仍为待审阅稿。生图提示词不在本仓库中。
+Word稿保留课程模板原封面，供小组填写成员信息；当前仍为待审阅稿。[初版论文 Markdown](paper/初版论文.md)便于讨论正文和 LaTeX 公式，图像与排版以 Word 及独立图件为准。
+
+## 中文论文图件
+
+四幅论文用图已按课程模板重绘为中文宋体、英文及数字 Times New Roman，图内字号10 pt，宽度16 cm，提供600 dpi PNG、PDF及可编辑文字SVG。原始图像、检测掩膜、统计点估计和区间沿用冻结实验；图内只保留标签、图例和数值。
+
+- [四幅美化图与独立重绘材料](paper/figures_polished_20261028/)
+- [图注、尺寸与使用说明](paper/figures_polished_20261028/图注与使用说明.md)
+- [绘图脚本](scripts/plot_paper_figures_cn.py)
+- [最终论文配图清单](reports/FINAL_PAPER_FIGURES.md)，包含13组已绘实验图的用途与备选关系，以及作者另行绘制的整体流程图。
+- [整体流程图生图提示词](paper/figures_polished_20261028/整体流程图_生图提示词.md)。作者已确认另行绘制流程图，成图未保存在本仓库中。
+
+四幅图可直接用于替换原稿对应图件；Word内的替换与全文重新分页尚未执行。后续加入整体流程图时，应按最终正文顺序重新编号。
 
 ## 最终结果
 
@@ -44,7 +56,7 @@ Word稿保留课程模板原封面，供小组填写成员信息；正文及参�
 1.先读`reports/COURSE_CURRENT_METHOD.md`与论文Word稿，统一方法和数据范围。
 2.主表使用`fixed_summary.csv`；消融及噪声分别使用`ablation_summary.csv`、`noise_summary.csv`，不要混合不同范围的分数。
 3.方法差值引用各目录的`paired_intervals.csv`或`*_paired_intervals.csv`，置信区间水平见协议。
-4.完整图件位于两组最终实验的`figures/`；建议优先使用频谱/响应、固定飞机对比、模块差值及噪声曲线。
+4.论文优先使用`paper/figures_polished_20261028/`中的频谱/响应、固定飞机对比、模块差值及噪声曲线；其他完整图件位于两组最终实验的`figures/`。图件取舍见`reports/FINAL_PAPER_FIGURES.md`。
 
 10图干净F1=65.153%与完整200图F1=60.149%来自不同图像范围。消融和主对比中相同掩膜的末位差异来自原生匹配器微小波动，不解释为算法改进。不要将Precision写成Accuracy或“成功率”。
 
@@ -74,6 +86,7 @@ python scripts/report_course_rgb_main200.py
 python scripts/plot_course_rgb_main200.py
 python scripts/report_course_rgb_extras.py
 python scripts/plot_course_rgb_extras.py
+python scripts/plot_paper_figures_cn.py
 ```
 
 这些命令会重写相应派生CSV/图件；原始结果已提交，可用Git查看变化。已有实验参数已冻结，不应再次执行`prepare_*`覆盖锁。本次上传核对了已有数据与文件完整性，没有重新运行检测或在干净克隆中完成全量MATLAB验证。

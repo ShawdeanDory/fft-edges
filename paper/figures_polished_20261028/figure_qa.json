@@ -1,0 +1,523 @@
+{
+  "backend": "python",
+  "fonts": {
+    "chinese": "SimSun",
+    "latin": "Times New Roman",
+    "source": "Course template: Chinese SimSun; Latin/numerals Times New Roman."
+  },
+  "widthCm": 16.0,
+  "analysisTextInsideFigures": false,
+  "statisticsRecomputed": false,
+  "sourceObservationsExcluded": 0,
+  "fullTestImages": 200,
+  "noiseIndependentImages": 10,
+  "noiseSeedsPerImageAtNonzeroNoise": 3,
+  "fontPolicy": "The course-template serif fonts replace generic publication defaults.",
+  "canvasPolicy": "Fixed 16 cm canvas replaces tight cropping to preserve final physical text size.",
+  "archetypes": {
+    "fig1": "image plate",
+    "fig2": "image plate + quant",
+    "fig3": "quantitative grid",
+    "fig4": "quantitative grid"
+  },
+  "imageIntegrity": {
+    "imageIds": [
+      "bsds_2018",
+      "bsds_3063"
+    ],
+    "selection": "Same fixed examples as the existing four manuscript figures.",
+    "crop": false,
+    "gammaOrPhotoContrastChange": false,
+    "binaryMaskMorphologyChange": false,
+    "displayResampling": "Hanning antialiasing only; no change to input pixel arrays.",
+    "spectra": "Existing log-magnitude arrays; each channel's original per-panel maximum scaling retained.",
+    "responseScale": [
+      0,
+      1
+    ],
+    "imageAspect": "native, equal"
+  },
+  "fig01_rgb_spectra_responses_cn": {
+    "widthCm": 16.0,
+    "heightCm": 10.2,
+    "dpi": 600,
+    "minimumTextPt": 10.0,
+    "visibleText": [
+      "(a) R通道频谱",
+      "(b) G通道频谱",
+      "(c) B通道频谱",
+      "(d) 强种子响应",
+      "(e) 弱连接响应",
+      "(f) 最终边缘"
+    ],
+    "outsideCanvasText": [],
+    "exports": [
+      "png",
+      "pdf",
+      "svg"
+    ]
+  },
+  "qualitativeExampleMeasurements": [
+    {
+      "method": "rgb_main",
+      "displayPercent": [
+        93.27354260089686,
+        65.23056938731328,
+        76.77133692381287
+      ]
+    },
+    {
+      "method": "gray_phase",
+      "displayPercent": [
+        93.28467153284672,
+        65.934184888504,
+        77.26030595061229
+      ]
+    },
+    {
+      "method": "sobel",
+      "displayPercent": [
+        62.74734728993404,
+        79.18380601861875,
+        70.01385756638719
+      ]
+    },
+    {
+      "method": "canny",
+      "displayPercent": [
+        72.61410788381743,
+        75.09201125784803,
+        73.83227503879468
+      ]
+    },
+    {
+      "method": "ideal_highpass",
+      "displayPercent": [
+        74.27078798432738,
+        68.15327993072093,
+        71.08065200314738
+      ]
+    },
+    {
+      "method": "gaussian_highpass",
+      "displayPercent": [
+        75.17667844522968,
+        68.75947174713141,
+        71.82502367459159
+      ]
+    }
+  ],
+  "fig02_six_method_comparison_cn": {
+    "widthCm": 16.0,
+    "heightCm": 8.8,
+    "dpi": 600,
+    "minimumTextPt": 10.0,
+    "visibleText": [
+      "(a) 原始图像",
+      "(b) 人工边界并集",
+      "P 93.3%  R 65.2%\nF1 76.8%",
+      "(c) RGB主方法",
+      "P 93.3%  R 65.9%\nF1 77.3%",
+      "(d) 灰度＋相位",
+      "P 62.7%  R 79.2%\nF1 70.0%",
+      "(e) Sobel",
+      "P 72.6%  R 75.1%\nF1 73.8%",
+      "(f) Canny",
+      "P 74.3%  R 68.2%\nF1 71.1%",
+      "(g) 理想高通",
+      "P 75.2%  R 68.8%\nF1 71.8%",
+      "(h) 高斯高通"
+    ],
+    "outsideCanvasText": [],
+    "exports": [
+      "png",
+      "pdf",
+      "svg"
+    ]
+  },
+  "ablationSourceRows": 20,
+  "ablationDisplayedRows": 15,
+  "ablationMetricScope": "P/R/pooled F1, as in the existing manuscript figure; five macro-F1 rows remain in the source CSV.",
+  "ablationPlottedContrasts": [
+    {
+      "method": "rgb_fft",
+      "comparator": "gray_fft",
+      "metric": "precision",
+      "deltaPercentagePoints": 0.18516011715868919,
+      "interval": [
+        0.04533025462184204,
+        0.34160351646026976
+      ]
+    },
+    {
+      "method": "rgb_phase",
+      "comparator": "gray_phase",
+      "metric": "precision",
+      "deltaPercentagePoints": 0.22301261482660095,
+      "interval": [
+        0.07238928937082131,
+        0.3852665911090341
+      ]
+    },
+    {
+      "method": "gray_phase",
+      "comparator": "gray_fft",
+      "metric": "precision",
+      "deltaPercentagePoints": 3.394623015529219,
+      "interval": [
+        2.6998670225329695,
+        4.149236161090499
+      ]
+    },
+    {
+      "method": "rgb_phase",
+      "comparator": "rgb_fft",
+      "metric": "precision",
+      "deltaPercentagePoints": 3.4324755131971307,
+      "interval": [
+        2.7450523220546916,
+        4.1826202674174935
+      ]
+    },
+    {
+      "method": "rgb_main",
+      "comparator": "rgb_phase",
+      "metric": "precision",
+      "deltaPercentagePoints": 0.6508745374989466,
+      "interval": [
+        0.5003547555365836,
+        0.8009026063925877
+      ]
+    },
+    {
+      "method": "rgb_fft",
+      "comparator": "gray_fft",
+      "metric": "recall",
+      "deltaPercentagePoints": 0.6242340060462426,
+      "interval": [
+        0.4208790288719228,
+        0.8353298498611191
+      ]
+    },
+    {
+      "method": "rgb_phase",
+      "comparator": "gray_phase",
+      "metric": "recall",
+      "deltaPercentagePoints": 0.6438434512623603,
+      "interval": [
+        0.45729769629014316,
+        0.841433737333951
+      ]
+    },
+    {
+      "method": "gray_phase",
+      "comparator": "gray_fft",
+      "metric": "recall",
+      "deltaPercentagePoints": -3.899370863632645,
+      "interval": [
+        -4.333114549117982,
+        -3.485017228578395
+      ]
+    },
+    {
+      "method": "rgb_phase",
+      "comparator": "rgb_fft",
+      "metric": "recall",
+      "deltaPercentagePoints": -3.8797614184165274,
+      "interval": [
+        -4.332154699548111,
+        -3.452758166354285
+      ]
+    },
+    {
+      "method": "rgb_main",
+      "comparator": "rgb_phase",
+      "metric": "recall",
+      "deltaPercentagePoints": -0.8952365389329198,
+      "interval": [
+        -1.0099554356240745,
+        -0.7863095958502184
+      ]
+    },
+    {
+      "method": "rgb_fft",
+      "comparator": "gray_fft",
+      "metric": "f1",
+      "deltaPercentagePoints": 0.3457153324143425,
+      "interval": [
+        0.18248148151845434,
+        0.5208498003431854
+      ]
+    },
+    {
+      "method": "rgb_phase",
+      "comparator": "gray_phase",
+      "metric": "f1",
+      "deltaPercentagePoints": 0.39657266735967367,
+      "interval": [
+        0.21834448457925307,
+        0.588835153124685
+      ]
+    },
+    {
+      "method": "gray_phase",
+      "comparator": "gray_fft",
+      "metric": "f1",
+      "deltaPercentagePoints": 0.6619078619380936,
+      "interval": [
+        0.16517324923619614,
+        1.1911971079963926
+      ]
+    },
+    {
+      "method": "rgb_phase",
+      "comparator": "rgb_fft",
+      "metric": "f1",
+      "deltaPercentagePoints": 0.7127651968834248,
+      "interval": [
+        0.22178833107241122,
+        1.2320738409467071
+      ]
+    },
+    {
+      "method": "rgb_main",
+      "comparator": "rgb_phase",
+      "metric": "f1",
+      "deltaPercentagePoints": 0.019708381872918235,
+      "interval": [
+        -0.11098790128394559,
+        0.14778024696958678
+      ]
+    }
+  ],
+  "fig03_module_paired_changes_cn": {
+    "widthCm": 16.0,
+    "heightCm": 6.6,
+    "dpi": 600,
+    "minimumTextPt": 10.0,
+    "visibleText": [
+      "变化量 / 百分点",
+      "0",
+      "2",
+      "4",
+      "无相位：加入颜色",
+      "有相位：加入颜色",
+      "灰度：加入相位",
+      "RGB：加入相位",
+      "增加弱连接门控",
+      "(a) 查准率 P",
+      "变化量 / 百分点",
+      "-4",
+      "-2",
+      "0",
+      "(b) 查全率 R",
+      "变化量 / 百分点",
+      "0.0",
+      "0.5",
+      "1.0",
+      "(c) F1值"
+    ],
+    "outsideCanvasText": [],
+    "exports": [
+      "png",
+      "pdf",
+      "svg"
+    ]
+  },
+  "noiseSourceRows": 24,
+  "noiseCurves": [
+    {
+      "method": "rgb_main",
+      "noiseStd": [
+        0.0,
+        0.02,
+        0.05,
+        0.1
+      ],
+      "f1Percent": [
+        65.1534999538471,
+        65.03501493997777,
+        64.42464697640503,
+        63.04559327184278
+      ]
+    },
+    {
+      "method": "gray_phase",
+      "noiseStd": [
+        0.0,
+        0.02,
+        0.05,
+        0.1
+      ],
+      "f1Percent": [
+        65.22121619434677,
+        65.17214972213019,
+        64.37861894534018,
+        63.078203734208735
+      ]
+    },
+    {
+      "method": "sobel",
+      "noiseStd": [
+        0.0,
+        0.02,
+        0.05,
+        0.1
+      ],
+      "f1Percent": [
+        55.58297279784629,
+        55.64094647587044,
+        55.59946229183777,
+        53.56680012822006
+      ]
+    },
+    {
+      "method": "canny",
+      "noiseStd": [
+        0.0,
+        0.02,
+        0.05,
+        0.1
+      ],
+      "f1Percent": [
+        63.18328927734572,
+        63.165625545570535,
+        62.83216109595745,
+        61.30183812302318
+      ]
+    },
+    {
+      "method": "ideal_highpass",
+      "noiseStd": [
+        0.0,
+        0.02,
+        0.05,
+        0.1
+      ],
+      "f1Percent": [
+        51.47716962356404,
+        51.234270600635476,
+        49.46573448337957,
+        40.910941286832625
+      ]
+    },
+    {
+      "method": "gaussian_highpass",
+      "noiseStd": [
+        0.0,
+        0.02,
+        0.05,
+        0.1
+      ],
+      "f1Percent": [
+        50.94247265954759,
+        50.7972112108772,
+        49.128401802665294,
+        40.164373755449866
+      ]
+    }
+  ],
+  "noisePairedF1Comparisons": [
+    {
+      "comparator": "gray_phase",
+      "noiseStd": 0.02,
+      "deltaPercentagePoints": -0.13713478215240382,
+      "interval": [
+        -1.1592493648207547,
+        0.5106334019901198
+      ]
+    },
+    {
+      "comparator": "gray_phase",
+      "noiseStd": 0.05,
+      "deltaPercentagePoints": 0.04602803106484865,
+      "interval": [
+        -0.7018559932821461,
+        0.7721435131777991
+      ]
+    },
+    {
+      "comparator": "gray_phase",
+      "noiseStd": 0.1,
+      "deltaPercentagePoints": -0.032610462365956217,
+      "interval": [
+        -0.48782306090771843,
+        0.4236805973937888
+      ]
+    },
+    {
+      "comparator": "canny",
+      "noiseStd": 0.02,
+      "deltaPercentagePoints": 1.8693893944072393,
+      "interval": [
+        0.8089393732607818,
+        3.1733759668526735
+      ]
+    },
+    {
+      "comparator": "canny",
+      "noiseStd": 0.05,
+      "deltaPercentagePoints": 1.5924858804475805,
+      "interval": [
+        -0.4687424817607373,
+        3.199576741707629
+      ]
+    },
+    {
+      "comparator": "canny",
+      "noiseStd": 0.1,
+      "deltaPercentagePoints": 1.7437551488196035,
+      "interval": [
+        -1.875722083318261,
+        4.217210625675827
+      ]
+    }
+  ],
+  "noiseIntervals": {
+    "left": "RGB marginal 95% interval only",
+    "right": "99.1666667% corrected intervals for six F1 comparisons"
+  },
+  "fig04_noise_robustness_cn": {
+    "widthCm": 16.0,
+    "heightCm": 8.1,
+    "dpi": 600,
+    "minimumTextPt": 10.0,
+    "visibleText": [
+      "噪声标准差 σ",
+      "0.00",
+      "0.02",
+      "0.05",
+      "0.10",
+      "F1 / %",
+      "40",
+      "50",
+      "60",
+      "70",
+      "(a) 六种方法的噪声曲线",
+      "F1差值 / 百分点",
+      "-2",
+      "0",
+      "2",
+      "4",
+      "σ",
+      "0.02",
+      "0.05",
+      "0.10",
+      "(b) RGB主方法的配对差值",
+      "相对灰度",
+      "相对Canny",
+      "RGB主方法",
+      "灰度＋相位",
+      "Sobel",
+      "Canny",
+      "理想高通",
+      "高斯高通"
+    ],
+    "outsideCanvasText": [],
+    "exports": [
+      "png",
+      "pdf",
+      "svg"
+    ]
+  }
+}

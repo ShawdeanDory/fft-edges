@@ -1,0 +1,32 @@
+{
+  "page": [
+    {
+      "leftPt": 76.55,
+      "bottomPt": 56.7,
+      "rightPt": 65.2,
+      "topPt": 62.35,
+      "heightPt": 841.9,
+      "widthPt": 595.3
+    }
+  ],
+  "styles": [
+    {
+      "size": 10.5,
+      "style": "Normal",
+      "name": "Times New Roman",
+      "ascii": "Times New Roman",
+      "eastAsia": "SimSun"
+    },
+    {
+      "size": 10,
+      "style": "Caption",
+      "name": "Times New Roman",
+      "ascii": "Times New Roman",
+      "eastAsia": "SimSun"
+    }
+  ],
+  "formatRequirements": [
+    "报告格式要求：用A4纸，通栏排版。页边距：上2.2厘米，下2厘米，左2.7厘米，右2.3厘米。必须插入居中页码。除摘要和仿真程序清单用单倍行距外，其余（包括正文、标题、日期）一律用1.2倍行距。中文一律用宋体，英文和数字一律用Times New Roman。摘要和仿真程序清单用小五号字，正文用五号，段前段后不留空行。中文摘要段前、段后各空0.5行。每段文字首行缩进2个字符。",
+    "报告篇幅：正文，包括图表在内控制在4-6页。要学会组织材料，精简文字。要求结构合理，文字通顺，格式规范，图文并茂。以消化自学内容，自己阐述与绘制的图表为优。图表应与正文文字相协调。"
+  ]
+}

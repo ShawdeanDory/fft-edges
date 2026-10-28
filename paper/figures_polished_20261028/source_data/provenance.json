@@ -1,0 +1,9 @@
+{
+  "bsds_2018.mat": "results/course_rgb_main200/run_20261027_01/samples/bsds_2018.mat",
+  "bsds_3063.mat": "results/course_rgb_main200/run_20261027_01/samples/bsds_3063.mat",
+  "bsds_3063.jpg": "data/course_full200/images/bsds_3063.jpg",
+  "bsds_3063_ground_truth.mat": "data/course_full200/references/bsds_3063.mat",
+  "ablation_paired_intervals.csv": "results/course_rgb_extras/run_20261027_01/ablation_paired_intervals.csv",
+  "noise_summary.csv": "results/course_rgb_extras/run_20261027_01/noise_summary.csv",
+  "noise_paired_intervals.csv": "results/course_rgb_extras/run_20261027_01/noise_paired_intervals.csv"
+}
